@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-08 03:07:44 UTC
-# Updated: 2026-08-08 03:07:44
+# Generated: 2026-08-09 03:12:33 UTC
+# Updated: 2026-08-09 03:12:33
 # Title: 央视频道
 # Total Channels: 59
 # For personal testing only.
@@ -16,40 +16,40 @@ http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4 # Tier:A Score:8
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5 # Tier:A Score:9
-https://cdn.qd.je/163189/cctv5-2
 #EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+ # Tier:A Score:9
 https://cdn.qd.je/163189/cctv5p-2
-#EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
-#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5 # Tier:A Score:9
+https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="🍓┃央视频道",CCTV-14 # Tier:A Score:10
+https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13 # Tier:A Score:10
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="🍓┃央视频道",CCTV-14 # Tier:A Score:10
-https://event.pull.hebtv.com/jishi/cp2.m3u8
-#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16 # Tier:A Score:9
-https://cdn.qd.je/163189/cctv16-2
+#EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16 # Tier:A Score:9
+https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版 # Tier:A Score:9
 https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="备用频道",CGTN # Tier:B Score:5
@@ -60,60 +60,58 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 group-title="💓专享央视",CCTV卫生健康 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-#EXTINF:-1 group-title="💓专享央视",CCTV央视台球 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="💓专享央视",CCTV第一剧场 # Tier:B Score:5
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="💓专享央视",CCTV风云剧场 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="💓专享央视",CCTV怀旧剧场 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="💓专享央视",CCTV电视指南 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 group-title="💓专享央视",CCTV第一剧场 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="💓专享央视",CCTV女性时尚 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="💓专享央视",CCTV央视台球 # Tier:B Score:5
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 group-title="💓专享央视",CCTV央视文化精品 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/925e9365900b159acf4493eb401fdc18.png" group-title="⚽ 足球回放",⚽ [回放] 罗萨里奥中央 vs 阿尔多斯维 2-1 2026-08-08 06:35 # Tier:B Score:6
-https://live.666666.zip/video/64664c68vodsgp1386416388/2106675b5001834815072050858/playlist_eof.m3u8?t=6a76c664&us=7c65bf38c7&sign=e1e1b808b6fe061bbbd11706c1387f63
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-01咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-01咪咕.png" group-title="🍉┃咪咕频道",CCTV-01咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-02咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-02咪咕.png" group-title="🍉┃咪咕频道",CCTV-02咪咕 # Tier:B Score:5
-http://69.30.245.50/live/cctv2.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-03咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-04咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-04咪咕.png" group-title="🍉┃咪咕频道",CCTV-04咪咕 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-05咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-05咪咕.png" group-title="🍉┃咪咕频道",CCTV-05咪咕 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+http://198.204.228.26/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-06咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-06咪咕.png" group-title="🍉┃咪咕频道",CCTV-06咪咕 # Tier:B Score:5
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-07咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-07咪咕.png" group-title="🍉┃咪咕频道",CCTV-07咪咕 # Tier:B Score:5
-http://192.151.150.154/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-09咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-09咪咕.png" group-title="🍉┃咪咕频道",CCTV-09咪咕 # Tier:B Score:5
-http://192.151.150.154/live/cctv9hd.m3u8
+http://204.12.221.218:8181/3m1080p/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-08咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-08咪咕.png" group-title="🍉┃咪咕频道",CCTV-08咪咕 # Tier:B Score:5
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-09咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-09咪咕.png" group-title="🍉┃咪咕频道",CCTV-09咪咕 # Tier:B Score:5
+http://192.151.150.154/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10咪咕.png" group-title="🍉┃咪咕频道",CCTV-10咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11咪咕.png" group-title="🍉┃咪咕频道",CCTV-11咪咕 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+http://192.151.150.154/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12咪咕.png" group-title="🍉┃咪咕频道",CCTV-12咪咕 # Tier:B Score:5
-http://74.91.26.218:82/live/cctv12hd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14咪咕.png" group-title="🍉┃咪咕频道",CCTV-14咪咕 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13咪咕.png" group-title="🍉┃咪咕频道",CCTV-13咪咕 # Tier:B Score:5
-http://192.151.150.154/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15咪咕.png" group-title="🍉┃咪咕频道",CCTV-15咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16咪咕.png" group-title="🍉┃咪咕频道",CCTV-16咪咕 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13咪咕.png" group-title="🍉┃咪咕频道",CCTV-13咪咕 # Tier:B Score:5
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16咪咕" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="🍉┃咪咕频道",CCTV-16咪咕 # Tier:B Score:5
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕 # Tier:B Score:5
+http://192.151.150.154/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV4欧洲咪咕" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="🍉┃咪咕频道",CCTV4欧洲咪咕 # Tier:B Score:7
 https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV4欧洲
 #EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV4美洲咪咕" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="🍉┃咪咕频道",CCTV4美洲咪咕 # Tier:B Score:7
 https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV4美洲
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕 # Tier:B Score:5
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕 # Tier:B Score:5
 http://173.208.212.130:8181/1080p/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="🍓┃央视频道",CETV-1 # Tier:B Score:5
@@ -124,3 +122,5 @@ http://rihou.cc:555/tv/CETV3
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 #EXTINF:-1 group-title="💎港澳台频道" tvg-name="央视综合Pdtv" tvg-logo="" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",央视综合Pdtv # Tier:B Score:7
 http://rihou.cc:555/tv/[Pd]央视综合
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4 中文国际.png" group-title="央视频道",CCTV-4 中文国际 # Tier:B Score:6
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786287600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-446b5dd3f79fcb7093d007cc760f0f83&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
