@@ -1,55 +1,39 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-16 02:58:29 UTC
-# Updated: 2026-08-16 02:58:29
+# Generated: 2026-08-17 02:26:54 UTC
+# Updated: 2026-08-17 02:26:54
 # Title: 国际频道
-# Total Channels: 63
+# Total Channels: 54
 # For personal testing only.
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA # Tier:A Score:8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道",CBC News # Tier:A Score:8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA # Tier:A Score:8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道",ABC News Live # Tier:A Score:8
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 group-title="国际频道",WionNews # Tier:A Score:8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道",Trace Sports # Tier:A Score:8
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang # Tier:A Score:10
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语） # Tier:A Score:8
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News（英语国际） # Tier:A Score:8
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道",Trace Sports # Tier:A Score:8
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Français（法语） # Tier:A Score:8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际频道",Newsmax # Tier:A Score:10
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语） # Tier:A Score:8
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语） # Tier:A Score:8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语） # Tier:A Score:10
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News（英语国际） # Tier:A Score:8
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语） # Tier:A Score:8
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际频道",Newsmax # Tier:A Score:10
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT塞尔维亚.png" group-title="国际频道",RT Balkan （塞尔维亚语） # Tier:A Score:8
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",Wild Earth # Tier:A Score:8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="🍹定制台☕️",Bloomberg # Tier:A Score:9
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="💓英语频道",Sky News (1080p) # Tier:A Score:8
-https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
-#EXTINF:-1 group-title="💓英语频道",CNN International (1080p) # Tier:A Score:8
-https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
-#EXTINF:-1 group-title="💓英语频道",CNN International # Tier:A Score:8
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 group-title="💓英语频道",ABC News Australia (720p) # Tier:A Score:9
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-#EXTINF:-1 group-title="💓英语频道",CNN International (720p) # Tier:A Score:8
-https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8
-#EXTINF:-1 group-title="💓英语频道",DW News # Tier:A Score:9
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="💓英语频道",Al Jazeera English (1080p) # Tier:A Score:9
-https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Bloomberg%20TV%2B.png" group-title="🇯🇵日本直播",Bloomberg TV+ # Tier:A Score:9
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Euronews.png" group-title="🇯🇵日本直播",Euronews # Tier:A Score:9
@@ -78,57 +62,55 @@ https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
 https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ACI%20Sport%20TV.png" group-title="⚽️体育直播",ACI Sport TV # Tier:A Score:9
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="🚂┃湾区频道",BBC Earth # Tier:A Score:9
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://10.1.0.232:5180/logo/BBC Earth.png" group-title="🚂┃湾区频道",BBC Earth # Tier:A Score:9
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg TV.png" group-title="🚂┃湾区频道",Bloomberg TV # Tier:A Score:8
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="http://10.1.0.232:5180/logo/Bloomberg TV.png" group-title="🚂┃湾区频道",Bloomberg TV # Tier:A Score:8
 https://4gtv.158.qzz.io/163189/0757afc8-8e51-42fd-b9b8-18c01e0a270d/
-#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS # Tier:A Score:8
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="http://10.1.0.232:5180/logo/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS # Tier:A Score:8
 http://free.cnlive.club/channel/n54fc5ba0/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Disney%20Jr.%20Latin%20America%20South.png" group-title="👶🏻少儿直播",Disney Jr. Latin America South # Tier:B Score:5
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Setanta%20Sport%201.png" group-title="⚽️体育直播",Setanta Sport 1 # Tier:B Score:5
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bbc.webp" group-title="美國 | US",🔴 BBC # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=7&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=eb6e9fd4fcded419316112f37da26ab627f5c7db17ebf264cfb5f56197600eed
+http://tv123.cc.cd/live.php?ch=7&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=95dbb45108e228cc9638b10a5192361fe85a3916dc1943269bfbfd8b299d2817
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.webp" group-title="英國 | GB",🔴 BBC One # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=9&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=c0ac0ced1dacb70511cfce9941faca68b29fe43e136cb1a21e3db381b9292e5c
+http://tv123.cc.cd/live.php?ch=9&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=78a2abb696573d79feaee9f7cd3180c19f8c4dc3a323c5676de8ae80d34c9ef1
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-four.webp" group-title="英國 | GB",🔴 BBC Four # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=8&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=5b7589111b342f82481121b61acb94ca646e4a988438184808f1c47f8bcf7b4f
+http://tv123.cc.cd/live.php?ch=8&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=8c03b725d799214de867e56a8f7bcaf3c490f4f841c8acfb4ddc0249156c8a62
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-three.webp" group-title="英國 | GB",🔴 BBC Three # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=10&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=48d4767592096a9db53154367fcff7191e6a0161b627f0e878ee93b5cee76906
+http://tv123.cc.cd/live.php?ch=10&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=0f95fb0eabac9587143621d5e628e3f114d5519cb139f2b5b62a90c55b46e554
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two.webp" group-title="英國 | GB",🔴 BBC Two # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=11&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=91b064921a6dc7048b83f647367e4d17ff073fe54817a25aff59ba6dc5371393
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnn.webp" group-title="美國 | US",🔴 CNN # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=18&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=390f2e74d1b2779599330055d4a5b07b477e5cec6f8821aa939d2508ced3fa9d
+http://tv123.cc.cd/live.php?ch=11&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=9e53da543cdf3eb815c726a4d3183bf6db9619576619a0906006eff814e4a7a7
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnbc.webp" group-title="美國 | US",🔴 CNBC # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=17&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=f8b56bb570dcc51f9dd2e5391105ba043ee39c7540f2e62f0b29405e32b431ee
+http://tv123.cc.cd/live.php?ch=17&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=8b6a927f2e4bfdceb543239b3fe89fbe47b5a508a55cfe1c6d3e5542091225fc
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnn.webp" group-title="美國 | US",🔴 CNN # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=18&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=d53d4d8cb7768c0f4d89787ecf931b77010109e4e36754e4650db678f8607f81
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/discovery-channel.webp" group-title="美國 | US",🔴 Discovery Channel # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=31&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=256ec80f54dbf5c1b9a7ab6dce48984e572569e2b20840fa3dea765fdbe714dc
+http://tv123.cc.cd/live.php?ch=31&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=7d6b3a0cfb0d958343a6c288cb5b930555b0a5deb8de12ed504b79f00ff229c3
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/disney-channel.webp" group-title="美國 | US",🔴 Disney Channel # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=32&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=0195138df229cfb7f968274a9be99ef4eb2fa61e78859a838af64b2fcdbb8c24
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.webp" group-title="英國 | GB",🔴 Euro Sport 2 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=39&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=304470945860f07739f3904fc26479e5cdb9c23da481ee35c6d562bbae001260
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.webp" group-title="美國 | US",🔴 FOX # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=40&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=320d257aaa39731b358e8334516da0f1f942a8db95f4adf23a929bb008a0d22f
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.webp" group-title="美國 | US",🔴 FOX News # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=42&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=782509d5d38273b8dfcd22262fc6171599ed2cc609d0803304a6097d00b3c16d
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.webp" group-title="美國 | US",🔴 FOX Deportes # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=41&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=49e844aeda5e456f75e378c9e421153432fc03df85e4df8473dc00280ee704a8
+http://tv123.cc.cd/live.php?ch=32&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=866f9bdc3f250fa30b890e64a847d88bc075d1cd44e85f08654738c227e03126
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.webp" group-title="英國 | GB",🔴 Euro Sport 1 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=38&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=f9d4cd1c0db86368c2032dd588037c0ded7c3bb2cbf75da4fc150274c55df7ea
+http://tv123.cc.cd/live.php?ch=38&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=09ee298cbbfe6e6ce5279ed1ca2fdbb547e328fab8a83f9a6407d10a4c8320f9
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.webp" group-title="美國 | US",🔴 FOX # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=40&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=6acd3045d314b9922bbe6e90a90fbb767e551b3dace38b90925f654a45e8a770
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.webp" group-title="英國 | GB",🔴 Euro Sport 2 # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=39&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=98d57f6a2bc93c097e9041bddaef6df29c76f00e592150ac3c3f0cccfddc8ef9
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.webp" group-title="美國 | US",🔴 FOX News # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=42&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=c3460ef21229cc7c2a5b8c52cc0697577c72dc571dfb90f1b0737d01e240e2bd
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.webp" group-title="美國 | US",🔴 FOX Deportes # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=41&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=6d8abd7c85b150ef81536fcccaa6dd87bcf220b3cd97a9be3c3ec001fe72c4d9
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.webp" group-title="美國 | US",🔴 FOX Soccer Plus # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=43&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=78b4fd4757eabaaf135b4e5e3161b13866089d9ae5bf4e9ff91054299fac2b50
+http://tv123.cc.cd/live.php?ch=43&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=be6549b575dae01d13268945df2ea5916717f9e080d4b84e0a1cc74d04e06fa9
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1.webp" group-title="美國 | US",🔴 FOX Sports 1 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=44&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=a7cc3131e7dd8272531ee6310c7b7cb3f9584287f6ba067c6fae0da378344763
+http://tv123.cc.cd/live.php?ch=44&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=03c3d1573693054275f9b5341e8d90ee1249a8d196b69efeeb0f24d5104f5f1e
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/hbo.webp" group-title="美國 | US",🔴 HBO # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=46&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=1f1627fa521df8d353c12c89f2fd85e3cbd3c85e477e63e2d94697dee2d25b03
+http://tv123.cc.cd/live.php?ch=46&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=3b5f11ace5c242144d8bbe7d61f837c5583e73cb92f4ff1d9af4f31cb00fb5eb
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/national-geographic.webp" group-title="美國 | US",🔴 National Geographic # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=74&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=2aa66cee6145660e4ce5a20b57ab0ce1c9b94a6503b1a49c2a16bb30e006b52c
+http://tv123.cc.cd/live.php?ch=74&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=4d925feaf3ee953602a346477eab800d5a7a0bafe0b510c782808d0f086881ee
 #EXTINF:-1 group-title="🏖️四季III",ARIRANG阿里郎頻道 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=183&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=4014c9f21b56cc049469d0b2a5ba07abd7adcd2ab4ba9e872b58f25b2c7a37f3
+http://tv123.cc.cd/live.php?ch=183&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=965659068684cff524cd55d1f1375c80bb1bf8076273c152b401d74e18c34c79
 #EXTINF:-1 group-title="🏖️四季III",TV5MONDE STYLE HD 生活時尚 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=227&sid=1f3e78b560971750a23228f6eb3a593e&exp=1786886287&sig=cccafef68b7838bce653cc80581cebd9d6167255b43f7bf830b823676e81336c
-#EXTINF:-1 group-title="💓英语频道",BBC News # Tier:C Score:4
-http://125.227.210.55:8165/VideoInput/play.ts
+http://tv123.cc.cd/live.php?ch=227&sid=220dede8706e9d954abed736873a9f34&exp=1786972540&sig=f272fb0ca732dbe8648ba1a732b7829bc0c0e9afbbfe7d9bdc8a09de62003219
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NHK%20G.png" group-title="🇯🇵日本直播",NHK G # Tier:C Score:2
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
