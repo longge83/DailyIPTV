@@ -1,62 +1,64 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-18 02:06:58 UTC
-# Updated: 2026-08-18 02:06:58
+# Generated: 2026-08-19 02:14:59 UTC
+# Updated: 2026-08-19 02:14:59
 # Title: 央视频道
-# Total Channels: 27
+# Total Channels: 28
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语 # Tier:A Score:10
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语 # Tier:A Score:10
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录 # Tier:A Score:10
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语 # Tier:A Score:10
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语 # Tier:A Score:10
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
-#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5 # Tier:A Score:9
-https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+ # Tier:A Score:9
 https://cdn.qd.je/163189/cctv5p-2
-#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版 # Tier:A Score:9
+https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5 # Tier:A Score:9
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
-#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13 # Tier:A Score:9
-https://cdn.qd.je/163189/cctv13-2
-#EXTINF:-1 tvg-name="CCTV14" group-title="mytv",CCTV14 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13 # Tier:A Score:10
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8 # Tier:A Score:8
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版 # Tier:A Score:9
-https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV14" group-title="mytv",CCTV14 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15 # Tier:A Score:8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16 # Tier:A Score:9
 https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="备用频道",CGTN # Tier:B Score:5
-http://112.27.235.94:8000/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4 中文国际.png" group-title="央视频道",CCTV-4 中文国际 # Tier:B Score:6
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787065200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-010ef99f371542ef18c1e3a89c0a6f76&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787151600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-aba9b5b06040fc26678120585a192421&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="央视频道",CETV1 # Tier:B Score:5
+http://120.237.39.10:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="央视频道",CETV2 # Tier:B Score:5
 http://119.166.53.110:9901/tsfile/live/0002_51.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV4 # Tier:B Score:5
+http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="央视频道",CCTV世界地理 # Tier:C Score:4
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710

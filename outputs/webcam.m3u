@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-18 02:06:58 UTC
-# Updated: 2026-08-18 02:06:58
+# Generated: 2026-08-19 02:14:59 UTC
+# Updated: 2026-08-19 02:14:59
 # Title: 景区慢直播
-# Total Channels: 8
+# Total Channels: 6
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_41f2734a3ddf14bf0b19625b3603ba33.jpeg?from=3067671334" group-title="🍿抖音直播",王小九 - 四川广元最细节的解说打法/监控视角/纯绿！！！ 71人 # Tier:C Score:2
-http://pull-hls-l11.douyincdn.com/thirdgame/stream-408154193953555276_lsuhd5.m3u8?expire=1787620364&sign=51a2d045e62a2bcca9ef99fc6dc31014&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-20260818091243D5C6DF6D543FF3ABF013-ij8kkl
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="👁️‍🗨️监控直播",澎湃景区 # Tier:A Score:9
 https://play-a2.quklive.com/live/1765245429980053.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐 # Tier:C Score:4
@@ -18,7 +16,5 @@ https://huyazhibo.de5.net/?id=23734176
 http://live.nctv.top/douyu1.php?id=10646699
 #EXTINF:-1 tvg-name="长白山电视台" tvg-logo="https://live.fanmingming.cn/tv/长白山电视台.png" group-title="吉林频道",长白山电视台 # Tier:A Score:10
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="黄山公共生活" tvg-logo="https://live.fanmingming.cn/tv/黄山公共生活.png" group-title="安徽频道",黄山公共生活 # Tier:A Score:8
-http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/黄山新闻综合.png" group-title="安徽频道",黄山新闻综合 # Tier:A Score:8
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
