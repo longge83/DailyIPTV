@@ -1,33 +1,39 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-28 10:48:17 UTC
-# Updated: 2026-08-28 10:48:17
+# Generated: 2026-08-29 07:01:04 UTC
+# Updated: 2026-08-29 07:01:04
 # Title: 央视频道
-# Total Channels: 64
+# Total Channels: 66
 # For personal testing only.
 
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录 # Tier:A Score:10
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语 # Tier:A Score:10
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语 # Tier:A Score:10
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录 # Tier:A Score:10
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_6eef264efae046cee7fce06d2b392a53.jpeg?from=3067671334" group-title="抖音",小央视频 - 央视《新闻频道》正在直播！ # Tier:A Score:8
+http://pull-hls-f1.douyincdn.com/media/stream-696342147108700844/playlist.m3u8?keeptime=00093a80&wsSecret=bb1e55328d6d16a5ff5ccfab53e8eef6&wsTime=6a927405&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260829135412B3BFC4DAE687FC139ACF-TYlEZW
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="🇺🇸美国直播",CGTN # Tier:A Score:9
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CGTN1.png" group-title="🇺🇸美国直播",CGTN1 # Tier:A Score:9
+https://live-stream.cgtn.com/event-live/CGTN_1_1PVvR6ZBAZ2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://iptv.1989.click/logo/CCTV5%2B.webp" group-title="🍓┃央视频道",CCTV-5+ # Tier:A Score:9
 https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV4美洲咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4美洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4美洲咪咕 # Tier:A Score:9
 https://live.chinacert.cftest5.cn/cnmg/live/608807416
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🍓┃央视频道",CCTV-1 # Tier:A Score:9
-https://cdn.qd.je/163189/rthk33
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="🍓┃央视频道",CCTV-2 # Tier:A Score:9
-https://live.chinacert.cftest5.cn/cnmg/live/631780532
 #EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV4欧洲咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4欧洲咪咕 # Tier:A Score:9
 https://live.chinacert.cftest5.cn/cnmg/live/608807419
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🍓┃央视频道",CCTV-1 # Tier:A Score:9
+https://cdn.qd.je/163189/cctv1
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="🍓┃央视频道",CCTV-2 # Tier:A Score:9
+https://live.chinacert.cftest5.cn/cnmg/live/631780532
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="🍓┃央视频道",CCTV-3 # Tier:A Score:9
 https://live.chinacert.cftest5.cn/cnmg/live/624878271
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🍓┃央视频道",CCTV-4 # Tier:A Score:9
-https://live.chinacert.cftest5.cn/cnmg/live/631780421
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://iptv.1989.click/logo/CCTV5.webp" group-title="🍓┃央视频道",CCTV-5 # Tier:A Score:9
 https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🍓┃央视频道",CCTV-4 # Tier:A Score:9
+https://live.chinacert.cftest5.cn/cnmg/live/631780421
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🍓┃央视频道",CCTV-6 # Tier:A Score:9
 https://live.chinacert.cftest5.cn/cnmg/live/624878396
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="🍓┃央视频道",CCTV-7 # Tier:A Score:9
@@ -54,8 +60,6 @@ https://cdn.qd.je/163189/cctv16-2
 https://cdn16.123.rr.kg/163189/cctv17
 #EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="🍓┃央视频道",CETV-2 # Tier:A Score:9
 https://live.chinacert.cftest5.cn/cnmg/live/923287211
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="⚽ 足球回放",⚽ [回放] 拉普拉塔大学生 vs 巴拉卡斯中央 3-1 2026-08-28 06:00 # Tier:B Score:5
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0a07007e5001834818170157455/playlist_eof.m3u8?t=6a919482&us=a7d05f87fc&sign=633310cc44c5982fda96f22b8ac03be5
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4%40.png" group-title="🇨🇳央卫视直播1",CCTV4@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2%40.png" group-title="🇨🇳央卫视直播1",CCTV2@ # Tier:B Score:7
@@ -64,54 +68,58 @@ http://f.123.rr.kg/163189/cctv2
 http://f.123.rr.kg/163189/cctv1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3%40.png" group-title="🇨🇳央卫视直播1",CCTV3@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv3
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6%40.png" group-title="🇨🇳央卫视直播1",CCTV6@ # Tier:B Score:7
-http://f.123.rr.kg/163189/cctv6
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7%40.png" group-title="🇨🇳央卫视直播1",CCTV7@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv7
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5%2B%40.png" group-title="🇨🇳央卫视直播1",CCTV5+@ # Tier:B Score:7
-http://f.123.rr.kg/163189/cctv5p
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8%40.png" group-title="🇨🇳央卫视直播1",CCTV8@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6%40.png" group-title="🇨🇳央卫视直播1",CCTV6@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv6
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5%40.png" group-title="🇨🇳央卫视直播1",CCTV5@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv5
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5%2B%40.png" group-title="🇨🇳央卫视直播1",CCTV5+@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv5p
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9%40.png" group-title="🇨🇳央卫视直播1",CCTV9@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv9
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV13%40.png" group-title="🇨🇳央卫视直播1",CCTV13@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv13
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14%40.png" group-title="🇨🇳央卫视直播1",CCTV14@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv14
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV11%40.png" group-title="🇨🇳央卫视直播1",CCTV11@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv11
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10%40.png" group-title="🇨🇳央卫视直播1",CCTV10@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv10
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8%40.png" group-title="🇨🇳央卫视直播1",CCTV8@ # Tier:B Score:7
-http://f.123.rr.kg/163189/cctv8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12%40.png" group-title="🇨🇳央卫视直播1",CCTV12@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv12
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV15%40.png" group-title="🇨🇳央卫视直播1",CCTV15@ # Tier:B Score:7
-http://f.123.rr.kg/163189/cctv15
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16%40.png" group-title="🇨🇳央卫视直播1",CCTV16@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv16
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV17%40.png" group-title="🇨🇳央卫视直播1",CCTV17@ # Tier:B Score:7
 http://f.123.rr.kg/163189/cctv17
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14%40.png" group-title="🇨🇳央卫视直播1",CCTV14@ # Tier:B Score:7
-http://f.123.rr.kg/163189/cctv14
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16%40.png" group-title="🇨🇳央卫视直播1",CCTV16@ # Tier:B Score:7
-http://f.123.rr.kg/163189/cctv16-2
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV15%40.png" group-title="🇨🇳央卫视直播1",CCTV15@ # Tier:B Score:7
+http://f.123.rr.kg/163189/cctv15
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1%E6%B8%AF%E6%BE%B3%E7%89%88%40.png" group-title="🔮港澳台直播",CCTV1港澳版@ # Tier:B Score:7
 http://c.123.rr.kg/163189/cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-01咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-01咪咕.png" group-title="🍉┃咪咕频道",CCTV-01咪咕 # Tier:B Score:5
-http://107.150.60.122/live/cctv1hd.m3u8
+http://198.204.228.26/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-02咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-02咪咕.png" group-title="🍉┃咪咕频道",CCTV-02咪咕 # Tier:B Score:5
 http://198.204.228.26/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-03咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-04咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-04咪咕.png" group-title="🍉┃咪咕频道",CCTV-04咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-07咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-07咪咕.png" group-title="🍉┃咪咕频道",CCTV-07咪咕 # Tier:B Score:5
-http://192.151.150.154/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-06咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-06咪咕.png" group-title="🍉┃咪咕频道",CCTV-06咪咕 # Tier:B Score:5
-http://198.204.228.26/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-05咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-05咪咕.png" group-title="🍉┃咪咕频道",CCTV-05咪咕 # Tier:B Score:5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-06咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-06咪咕.png" group-title="🍉┃咪咕频道",CCTV-06咪咕 # Tier:B Score:5
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-07咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-07咪咕.png" group-title="🍉┃咪咕频道",CCTV-07咪咕 # Tier:B Score:5
+http://192.151.150.154/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-08咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-08咪咕.png" group-title="🍉┃咪咕频道",CCTV-08咪咕 # Tier:B Score:5
 http://107.150.60.122/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-09咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-09咪咕.png" group-title="🍉┃咪咕频道",CCTV-09咪咕 # Tier:B Score:5
-http://192.151.150.154/live/cctv9hd.m3u8
+http://107.150.60.122/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10咪咕.png" group-title="🍉┃咪咕频道",CCTV-10咪咕 # Tier:B Score:5
 http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11咪咕.png" group-title="🍉┃咪咕频道",CCTV-11咪咕 # Tier:B Score:5
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12咪咕.png" group-title="🍉┃咪咕频道",CCTV-12咪咕 # Tier:B Score:5
 http://192.151.150.154/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14咪咕.png" group-title="🍉┃咪咕频道",CCTV-14咪咕 # Tier:B Score:5
@@ -120,17 +128,13 @@ http://192.151.150.154/live/cctv14hd.m3u8
 http://192.151.150.154/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕 # Tier:B Score:5
 http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11咪咕.png" group-title="🍉┃咪咕频道",CCTV-11咪咕 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕 # Tier:B Score:5
 http://39.150.102.131:19901/tsfile/live/0017_1.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="🍓┃央视频道",CETV-1 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqbv/cetv1hd.m3u8?auth=test20251009
+http://198.204.228.26/live/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="🍓┃央视频道",CETV-3 # Tier:B Score:5
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="🍓┃央视频道",CETV-4 # Tier:B Score:5
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="💰┃付费频道",央视台球 # Tier:B Score:7
 http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4 中文国际.png" group-title="央视频道",CCTV-4 中文国际 # Tier:B Score:6
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787940000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-eeba5022e5cfb2b979562c479e678780&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
