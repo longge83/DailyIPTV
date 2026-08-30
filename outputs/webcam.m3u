@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-29 07:01:04 UTC
-# Updated: 2026-08-29 07:01:04
+# Generated: 2026-08-30 04:59:28 UTC
+# Updated: 2026-08-30 04:59:28
 # Title: 景区慢直播
-# Total Channels: 6
+# Total Channels: 7
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/11/19/00/BMjAyMzExMTkwMDI3MzBfMjk3NTA3NjA0M18yX2hkMzg1Xzg5NA==_s.jpg" group-title="快手",熊猫（战无不胜） - 快手直播 # Tier:F Score:0
+https://hw-origin.pull.yximgs.com/gifshow/XunqCfIrmFw_ma1500.flv?hwTime=6a94fbcc&hwSecret=b340e4283c948d09dd596db79a30ba0e&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="👁️‍🗨️监控直播",澎湃景区 # Tier:A Score:9
 https://play-a2.quklive.com/live/1765245429980053.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐 # Tier:C Score:4
