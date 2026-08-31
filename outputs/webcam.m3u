@@ -1,21 +1,23 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-30 04:59:28 UTC
-# Updated: 2026-08-30 04:59:28
+# Generated: 2026-08-31 04:55:22 UTC
+# Updated: 2026-08-31 04:55:22
 # Title: 景区慢直播
-# Total Channels: 7
+# Total Channels: 8
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/11/19/00/BMjAyMzExMTkwMDI3MzBfMjk3NTA3NjA0M18yX2hkMzg1Xzg5NA==_s.jpg" group-title="快手",熊猫（战无不胜） - 快手直播 # Tier:F Score:0
-https://hw-origin.pull.yximgs.com/gifshow/XunqCfIrmFw_ma1500.flv?hwTime=6a94fbcc&hwSecret=b340e4283c948d09dd596db79a30ba0e&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=1
+https://hw-origin.pull.yximgs.com/gifshow/bzLAb1GmXkY_ma1500.flv?hwTime=6a964e36&hwSecret=21c25652bab1c7f2cb7b2d8581d81674&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="👁️‍🗨️监控直播",澎湃景区 # Tier:A Score:9
 https://play-a2.quklive.com/live/1765245429980053.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐 # Tier:C Score:4
 https://huyazhibo.de5.net/?id=23734176
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%89%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%95%8A.png" group-title="🤣沙雕动画直播",天才大熊猫啊 # Tier:C Score:2
 http://live.nctv.top/douyu1.php?id=10646699
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/星空卫视.png" group-title="🎬┃电影频道",星空卫视 # Tier:B Score:5
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:C Score:2
 https://vd3.bdstatic.com/mda-mkf3j23x8vr8bc79/hd/cae_h264/1637032794957244867/mda-mkf3j23x8vr8bc79.mp4
 #EXTINF:-1 tvg-name="长白山电视台" tvg-logo="https://live.fanmingming.cn/tv/长白山电视台.png" group-title="吉林频道",长白山电视台 # Tier:A Score:10
