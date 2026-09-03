@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-02 04:06:13 UTC
-# Updated: 2026-09-02 04:06:13
+# Generated: 2026-09-03 04:09:38 UTC
+# Updated: 2026-09-03 04:09:38
 # Title: 景区慢直播
-# Total Channels: 51
+# Total Channels: 49
 # For personal testing only.
 
-#EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
-https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-name="直播中国" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/直播中国.png" group-title="央视频道",直播中国 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="👁️‍🗨️监控直播",澎湃景区 # Tier:A Score:9
 https://play-a2.quklive.com/live/1765245429980053.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐 # Tier:C Score:4
@@ -20,76 +20,72 @@ http://live.nctv.top/douyu1.php?id=10646699
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:C Score:2
 https://vd3.bdstatic.com/mda-mkf3j23x8vr8bc79/hd/cae_h264/1637032794957244867/mda-mkf3j23x8vr8bc79.mp4
-#EXTINF:-1 tvg-name="丽江古城大研花巷观景" tvg-logo="https://live.fanmingming.cn/tv/丽江古城大研花巷观景.png" group-title="云南频道",丽江古城大研花巷观景 # Tier:A Score:9
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="https://live.fanmingming.cn/tv/丽江古城万古楼遥望玉龙雪山.png" group-title="云南频道",丽江古城万古楼遥望玉龙雪山 # Tier:A Score:9
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
 #EXTINF:-1 tvg-name="丽江古城大水车" tvg-logo="https://live.fanmingming.cn/tv/丽江古城大水车.png" group-title="云南频道",丽江古城大水车 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1 tvg-name="云南丽江印象实景" tvg-logo="https://live.fanmingming.cn/tv/云南丽江印象实景.png" group-title="云南频道",云南丽江印象实景 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 tvg-name="云南丽江玉龙雪山" tvg-logo="https://live.fanmingming.cn/tv/云南丽江玉龙雪山.png" group-title="云南频道",云南丽江玉龙雪山 # Tier:A Score:9
-https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-#EXTINF:-1 tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://live.fanmingming.cn/tv/云南丽江玉龙雪山草甸.png" group-title="云南频道",云南丽江玉龙雪山草甸 # Tier:A Score:9
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
 #EXTINF:-1 tvg-name="云南丽江冰川" tvg-logo="https://live.fanmingming.cn/tv/云南丽江冰川.png" group-title="云南频道",云南丽江冰川 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="https://live.fanmingming.cn/tv/丽江古城万古楼遥望玉龙雪山.png" group-title="云南频道",丽江古城万古楼遥望玉龙雪山 # Tier:A Score:9
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城大研花巷观景" tvg-logo="https://live.fanmingming.cn/tv/丽江古城大研花巷观景.png" group-title="云南频道",丽江古城大研花巷观景 # Tier:A Score:9
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江玉龙雪山" tvg-logo="https://live.fanmingming.cn/tv/云南丽江玉龙雪山.png" group-title="云南频道",云南丽江玉龙雪山 # Tier:A Score:9
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江印象实景" tvg-logo="https://live.fanmingming.cn/tv/云南丽江印象实景.png" group-title="云南频道",云南丽江印象实景 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 #EXTINF:-1 tvg-name="云南丽江蓝月谷" tvg-logo="https://live.fanmingming.cn/tv/云南丽江蓝月谷.png" group-title="云南频道",云南丽江蓝月谷 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1 tvg-name="云南大理崇圣寺三塔远景" tvg-logo="https://live.fanmingming.cn/tv/云南大理崇圣寺三塔远景.png" group-title="云南频道",云南大理崇圣寺三塔远景 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1 tvg-name="云南大理崇圣寺三塔中景" tvg-logo="https://live.fanmingming.cn/tv/云南大理崇圣寺三塔中景.png" group-title="云南频道",云南大理崇圣寺三塔中景 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-#EXTINF:-1 tvg-name="云南白沙远眺玉龙雪山" tvg-logo="https://live.fanmingming.cn/tv/云南白沙远眺玉龙雪山.png" group-title="云南频道",云南白沙远眺玉龙雪山 # Tier:A Score:9
-https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://live.fanmingming.cn/tv/云南丽江玉龙雪山草甸.png" group-title="云南频道",云南丽江玉龙雪山草甸 # Tier:A Score:9
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://live.fanmingming.cn/tv/江苏徐州云龙湖风景区云龙山观景台西.png" group-title="云南频道",江苏徐州云龙湖风景区云龙山观景台西 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 #EXTINF:-1 tvg-name="狮子山鸟瞰丽江古城" tvg-logo="https://live.fanmingming.cn/tv/狮子山鸟瞰丽江古城.png" group-title="云南频道",狮子山鸟瞰丽江古城 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 tvg-name="云南白沙远眺玉龙雪山" tvg-logo="https://live.fanmingming.cn/tv/云南白沙远眺玉龙雪山.png" group-title="云南频道",云南白沙远眺玉龙雪山 # Tier:A Score:9
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" tvg-logo="https://live.fanmingming.cn/tv/长白山电视台.png" group-title="吉林频道",长白山电视台 # Tier:A Score:10
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="四川峨眉山云海日出" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉山云海日出.png" group-title="四川频道",四川峨眉山云海日出 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1 tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉山普贤菩萨铜像.png" group-title="四川频道",四川峨眉山普贤菩萨铜像 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山远眺万佛顶" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉山远眺万佛顶.png" group-title="四川频道",四川峨眉山远眺万佛顶 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉山远眺贡嘎雪山.png" group-title="四川频道",四川峨眉山远眺贡嘎雪山 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉山普贤菩萨铜像.png" group-title="四川频道",四川峨眉山普贤菩萨铜像 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 #EXTINF:-1 tvg-name="安徽池州九华山风景区九华山" tvg-logo="https://live.fanmingming.cn/tv/安徽池州九华山风景区九华山.png" group-title="安徽频道",安徽池州九华山风景区九华山 # Tier:A Score:9
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山大观峰" tvg-logo="https://live.fanmingming.cn/tv/泰山大观峰.png" group-title="安徽频道",泰山大观峰 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
-#EXTINF:-1 tvg-name="黄山" tvg-logo="https://live.fanmingming.cn/tv/黄山.png" group-title="安徽频道",黄山 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-#EXTINF:-1 tvg-name="黄山排云亭" tvg-logo="https://live.fanmingming.cn/tv/黄山排云亭.png" group-title="安徽频道",黄山排云亭 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
-#EXTINF:-1 tvg-name="黄山始信新道" tvg-logo="https://live.fanmingming.cn/tv/黄山始信新道.png" group-title="安徽频道",黄山始信新道 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山飞来石" tvg-logo="https://live.fanmingming.cn/tv/黄山飞来石.png" group-title="安徽频道",黄山飞来石 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山始信新道" tvg-logo="https://live.fanmingming.cn/tv/黄山始信新道.png" group-title="安徽频道",黄山始信新道 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山排云亭" tvg-logo="https://live.fanmingming.cn/tv/黄山排云亭.png" group-title="安徽频道",黄山排云亭 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山" tvg-logo="https://live.fanmingming.cn/tv/黄山.png" group-title="安徽频道",黄山 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山主峰" tvg-logo="https://live.fanmingming.cn/tv/泰山主峰.png" group-title="山东频道",泰山主峰 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-#EXTINF:-1 tvg-name="泰山十八盘" tvg-logo="https://live.fanmingming.cn/tv/泰山十八盘.png" group-title="山东频道",泰山十八盘 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-#EXTINF:-1 tvg-name="泰山玉皇顶" tvg-logo="https://live.fanmingming.cn/tv/泰山玉皇顶.png" group-title="山东频道",泰山玉皇顶 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山碧霞祠" tvg-logo="https://live.fanmingming.cn/tv/泰山碧霞祠.png" group-title="山东频道",泰山碧霞祠 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-#EXTINF:-1 tvg-name="泰山望人松" tvg-logo="https://live.fanmingming.cn/tv/泰山望人松.png" group-title="山东频道",泰山望人松 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-#EXTINF:-1 tvg-name="泰山白云亭悬崖" tvg-logo="https://live.fanmingming.cn/tv/泰山白云亭悬崖.png" group-title="广东频道",泰山白云亭悬崖 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/黄山新闻综合.png" group-title="安徽频道",黄山新闻综合 # Tier:A Score:8
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 tvg-name="泰山望人松" tvg-logo="https://live.fanmingming.cn/tv/泰山望人松.png" group-title="山东频道",泰山望人松 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山十八盘" tvg-logo="https://live.fanmingming.cn/tv/泰山十八盘.png" group-title="山东频道",泰山十八盘 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山白云亭悬崖" tvg-logo="https://live.fanmingming.cn/tv/泰山白云亭悬崖.png" group-title="广东频道",泰山白云亭悬崖 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 #EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-logo="https://live.fanmingming.cn/tv/广西桂林漓江景区.png" group-title="广西频道",广西桂林漓江景区 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山南天门" tvg-logo="https://live.fanmingming.cn/tv/泰山南天门.png" group-title="湖北频道",泰山南天门 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1 tvg-name="湖南张家界宝峰湖" tvg-logo="https://live.fanmingming.cn/tv/湖南张家界宝峰湖.png" group-title="湖南频道",湖南张家界宝峰湖 # Tier:A Score:10
-https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://live.fanmingming.cn/tv/湖南张家界天门山西线玻璃栈道.png" group-title="湖南频道",湖南张家界天门山西线玻璃栈道 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界宝峰湖" tvg-logo="https://live.fanmingming.cn/tv/湖南张家界宝峰湖.png" group-title="湖南频道",湖南张家界宝峰湖 # Tier:A Score:10
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南张家界御笔峰" tvg-logo="https://live.fanmingming.cn/tv/湖南张家界御笔峰.png" group-title="湖南频道",湖南张家界御笔峰 # Tier:A Score:10
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南张家界水绕四门" tvg-logo="https://live.fanmingming.cn/tv/湖南张家界水绕四门.png" group-title="湖南频道",湖南张家界水绕四门 # Tier:A Score:10
