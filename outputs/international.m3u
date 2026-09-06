@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-05 04:14:46 UTC
-# Updated: 2026-09-05 04:14:46
+# Generated: 2026-09-06 04:08:37 UTC
+# Updated: 2026-09-06 04:08:37
 # Title: 国际频道
-# Total Channels: 57
+# Total Channels: 58
 # For personal testing only.
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA # Tier:A Score:8
@@ -18,24 +18,22 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道",Trace Sports # Tier:A Score:8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语） # Tier:A Score:8
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News（英语国际） # Tier:A Score:8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语） # Tier:A Score:8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Français（法语） # Tier:A Score:8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际频道",Newsmax # Tier:A Score:10
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语） # Tier:A Score:10
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际频道",Newsmax # Tier:A Score:10
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT塞尔维亚.png" group-title="国际频道",RT Balkan （塞尔维亚语） # Tier:A Score:8
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语） # Tier:A Score:8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",Wild Earth # Tier:A Score:8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_c6def926d7e34959139293381fc45060.jpeg?from=3067671334" group-title="抖音",Mozart 👑金元宝👑蟹黄包 - Mozart 👑金元宝👑米尔👑摆正在直播 # Tier:A Score:8
-http://pull-hls-l1.douyincdn.com/radio/stream-408259037192781858/playlist.m3u8?keeptime=00093a80&wsSecret=f74056ea56a3767e221b65972951c933&wsTime=6a9b8936&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20260905111501EE0FCA3109D5E80557A7-31gVzb
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Bloomberg%20TV%2B.png" group-title="🇯🇵日本直播",Bloomberg TV+ # Tier:A Score:9
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Euronews.png" group-title="🇯🇵日本直播",Euronews # Tier:A Score:9
@@ -44,10 +42,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/France%2024.png" group-title="🇷🇺俄罗斯直播",France 24 # Tier:A Score:8
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TRT%20World.png" group-title="🇹🇷土耳其直播",TRT World # Tier:A Score:8
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TRT%20Muzik.png" group-title="🇹🇷土耳其直播",TRT Muzik # Tier:A Score:8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TRT%20World.png" group-title="🇹🇷土耳其直播",TRT World # Tier:A Score:8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DW%20Espa%C3%B1ol%20%E2%93%88.png" group-title="🇪🇸西班牙直播",DW Español Ⓢ # Tier:A Score:9
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Al%20Jazeera%20Arabic.png" group-title="🇶🇦卡塔尔直播",Al Jazeera Arabic # Tier:A Score:8
@@ -59,64 +57,68 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ACI%20Sport%20TV.png" group-title="⚽️体育直播",ACI Sport TV # Tier:A Score:9
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="🚂┃湾区频道",BBC Earth # Tier:A Score:9
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_domingo-320x180.jpg" group-title="Twitch",Domingo - JFAIS MONTER L'EVEREST A CLEMQUICOURT TOUTE LA NUIT ! # Tier:B Score:5
-https://usher.ttvnw.net/api/v2/channel/hls/domingo.m3u8?sig=8a26ac9413c3bc4e22b4dd3b4ddd6076e2c9ca4a&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22domingo%22%2C%22channel_id%22%3A40063341%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a16a5ba3ffd0447ca784b80190dbee98%22%2C%22expires%22%3A1788579309%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1520680916%2C%22user_ip%22%3A%22162.159.116.139%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&platform=mobile_web&player_type=site&allow_source=true&allow_audio_only=true
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg" group-title="Twitch",ironmouse - !MOUSEATHON DAY 4 AHHHH 50% TO IMMUNE DEF |  !9th | !apari | !omocat | !fox | !cheeky | !ht | !starforge | !tts | !merch | !razer # Tier:B Score:5
-https://usher.ttvnw.net/api/v2/channel/hls/ironmouse.m3u8?sig=8c8a206da3e6728232e306177b909e619c4a1be4&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ironmouse%22%2C%22channel_id%22%3A175831187%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a16a5ba3ffd0447ca784b80190dbee98%22%2C%22expires%22%3A1788579309%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1520680916%2C%22user_ip%22%3A%22162.159.116.139%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&platform=mobile_web&player_type=site&allow_source=true&allow_audio_only=true
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1138868035-1138868035-4891400964784783360-2277859526-10057-A-0-1/20260906111417.jpg" group-title="虎牙",悦己丶Fox - 虎牙直播 # Tier:B Score:7
+https://qiheyi.pages.dev/huya/18795599
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg" group-title="Twitch",ironmouse - !MOUSEATHON DAY 5 AHHHH 50% TO IMMUNE DEF |  !9th | !apari | !omocat | !fox | !cheeky | !ht | !starforge | !tts | !merch | !razer # Tier:B Score:5
+https://usher.ttvnw.net/api/v2/channel/hls/ironmouse.m3u8?sig=8eeac4010d1a075b9fc497f31af5cb4c66db9a51&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ironmouse%22%2C%22channel_id%22%3A175831187%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a16a5ba3ffd0447ca784b80190dbee98%22%2C%22expires%22%3A1788665706%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1520680916%2C%22user_ip%22%3A%22104.22.20.114%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&platform=mobile_web&player_type=site&allow_source=true&allow_audio_only=true
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_rdcgaming-320x180.jpg" group-title="Twitch",RDCgaming - START YOUR WEEKEND OFF WITH A HEALTHY DOSE OF RDC + NEW GAMES # Tier:B Score:5
+https://usher.ttvnw.net/api/v2/channel/hls/rdcgaming.m3u8?sig=824a894f2ab72352cf15893769e77d5f056668b2&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22rdcgaming%22%2C%22channel_id%22%3A63000646%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a16a5ba3ffd0447ca784b80190dbee98%22%2C%22expires%22%3A1788665707%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1520680916%2C%22user_ip%22%3A%22104.22.20.114%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&platform=mobile_web&player_type=site&allow_source=true&allow_audio_only=true
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_jungemert-320x180.jpg" group-title="Twitch",jungemert - Valorant!! # Tier:B Score:5
+https://usher.ttvnw.net/api/v2/channel/hls/jungemert.m3u8?sig=acfd2f53415a56defdb83288324b70ed6fbfca7c&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22jungemert%22%2C%22channel_id%22%3A1231966092%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a16a5ba3ffd0447ca784b80190dbee98%22%2C%22expires%22%3A1788665707%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1520680916%2C%22user_ip%22%3A%22104.22.20.114%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&platform=mobile_web&player_type=site&allow_source=true&allow_audio_only=true
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Disney%20Jr.%20Latin%20America%20South.png" group-title="👶🏻少儿直播",Disney Jr. Latin America South # Tier:B Score:5
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS" tvg-name="BBC NEWS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC NEWS.png" group-title="🚂┃湾区频道",BBC NEWS # Tier:B Score:6
 http://barnsidetv.ddns.net:8081/live/PNbV7ywsHG/u7jmr3xvcM/1049.ts
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-four.webp" group-title="英國 | GB",🔴 BBC Four # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=8&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=c4ff34ba9e8791a32687ce652d5912dd2d9c6f0625a3360078680ebce2e3db8a
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bbc.webp" group-title="美國 | US",🔴 BBC # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=7&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=b26859b07a4e2bafcb3d3ef917660b732b3154d5e1af6180d15864b619d47d73
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-three.webp" group-title="英國 | GB",🔴 BBC Three # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=10&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=8d399c1f5403d95c630ab5495d7807512b4df98f195e0a58bc6eaa93fc432ec8
+http://tv123.cc.cd/live.php?ch=7&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=b55124fe7e4975f4664061f710e7aa1a445323a597adb2f0a27bcd57913129c4
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-four.webp" group-title="英國 | GB",🔴 BBC Four # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=8&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=69a4273b2ba1304267e93c52990cf7b1259a9617c3f3e9879fd558dd3690c9fb
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.webp" group-title="英國 | GB",🔴 BBC One # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=9&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=6ccaf7892c54fccb3d9f237dd911235d7ec93d5cbc4c1fe70780511333bb376a
+http://tv123.cc.cd/live.php?ch=9&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=0261314c7543cac358675655050fefff9fdc2d12d0d61dfdff5e1f7161eb0e07
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-three.webp" group-title="英國 | GB",🔴 BBC Three # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=10&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=937e9e6d8554b16cdca14568d2a95591d4e21c3a2aefd3979cc20a00ae899424
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two.webp" group-title="英國 | GB",🔴 BBC Two # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=11&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=893a1d1615d3693b9ddae9d8bf96be96a0ab9ed2aa078220878ab92fbf0c0f78
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnbc.webp" group-title="美國 | US",🔴 CNBC # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=17&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=38887700552e5cd19e9e3b44a81072c3df6b25ec91eadc77cf7b033a81549c91
+http://tv123.cc.cd/live.php?ch=11&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=5dd76d1bffa5f5cd0bc37d361eb263fce67d82824dd3eb4af3fc223e84021d13
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnn.webp" group-title="美國 | US",🔴 CNN # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=18&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=3acac44b07b02b8de9599576f7224fbd70bd62b6e72ccac23ba94482f41445f2
+http://tv123.cc.cd/live.php?ch=18&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=ac957525fadb3ad7d6681286a62b0372eff686e2592c036d8a6b58b9f8ad2e7e
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnbc.webp" group-title="美國 | US",🔴 CNBC # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=17&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=257d5a6ca0e6762a6684d5227f70e08bad5d859410929961064df00191cc35e9
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/discovery-channel.webp" group-title="美國 | US",🔴 Discovery Channel # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=30&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=a666fc1800bb436afd0cd4040e5896af200733dad6fe6c8c9999b466901be689
+http://tv123.cc.cd/live.php?ch=27&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=82e2d375d807e5ff5c217b8e2fb369eb77e2b4a16631045222c4ca75e8b10aa2
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/disney-channel.webp" group-title="美國 | US",🔴 Disney Channel # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=31&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=3d21ac61e998cb97f5f52f01b6eb94779e984038c4446ddeabe7e896f8ab7d11
+http://tv123.cc.cd/live.php?ch=28&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=e6f66b90cad2888611b11fbae8daa67016bb436967ad558b96701197c735dd63
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.webp" group-title="英國 | GB",🔴 Euro Sport 1 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=37&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=c482f520cf28ace72a04bfa1728d2bf67740473c4a58cd31b7b8cfeb288427d2
+http://tv123.cc.cd/live.php?ch=34&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=2fc3142b804677f17ce6ac6dc70217cc869b05066ca5fe80a6b173e2ebc06641
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.webp" group-title="英國 | GB",🔴 Euro Sport 2 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=38&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=50182ee85b2676465d5a66e209513eec0b7d8acc7249b305c2629bdefcbf82ba
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.webp" group-title="美國 | US",🔴 FOX News # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=41&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=f7f60af1fc9f429741f878906d67c2a737dbbc589d461de4cc37d1869a2f55f0
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.webp" group-title="美國 | US",🔴 FOX Deportes # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=40&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=ed98f030d515aa89c528ae880d8bbde780ad11df4a100122cae071302c3b0b26
+http://tv123.cc.cd/live.php?ch=35&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=2364612735a6f80e7fc330786c5909453631b8fccf303b2c3740bf6a426fbf8d
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.webp" group-title="美國 | US",🔴 FOX # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=39&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=116412600d9bf4d2fae1666f79785846a8c27f9e071ab2262c987cc27b197aa4
+http://tv123.cc.cd/live.php?ch=36&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=fb674ca6d93b54362d26e82347fdb816276f8e950f6c5b27083b77f7818d7299
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.webp" group-title="美國 | US",🔴 FOX Deportes # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=37&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=2b65cee547ddf52158cdfa435406154b3b3bb8886d4291975f02d42e478da805
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.webp" group-title="美國 | US",🔴 FOX News # Tier:B Score:7
+http://tv123.cc.cd/live.php?ch=38&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=36815e063fdd7309e1a44a104ae082716969608d8dff6d262816df0e804e81b8
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.webp" group-title="美國 | US",🔴 FOX Soccer Plus # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=42&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=5f0c223015fb2b54502b25770b74f1e1c839005056e6f54d67f3aaf5cd56a5e3
+http://tv123.cc.cd/live.php?ch=39&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=d2c844859fa29c7a47ad99ff5ad1b8b16f2004237705e0df3f28eea48d84072e
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1.webp" group-title="美國 | US",🔴 FOX Sports 1 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=43&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=e05cbd1670e36295d44fa6202a21c98ac1459ebb6ff69e4108750849683eaeca
+http://tv123.cc.cd/live.php?ch=40&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=57b24397b1cbefdb6c63b1740d2d3e206252bf7d1e0fab6d9f3ee0d34eee9e86
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/hbo.webp" group-title="美國 | US",🔴 HBO # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=45&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=00e63e14b695b184e42fbc8ec2c0282ae259500bb17fb4ebe8c43c5c34ffd494
+http://tv123.cc.cd/live.php?ch=42&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=67c51b18a01df7c4f11d71838fd7a90da048c4286eedc30402fad8593550ff04
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/national-geographic.webp" group-title="美國 | US",🔴 National Geographic # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=65&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=3b95e4e25368fc0991a49214ebd3905ae48eadc1b89bcb5cc14fb98b87ae2fe7
+http://tv123.cc.cd/live.php?ch=63&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=fc9eafd6913fdb78f737df7857ba13557f23b3ad782d5ccf3c482b9befd84682
 #EXTINF:-1 group-title="韓國 | Korea" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPS2HfHVb4Sr1DIRtyxyvQlkYVTj4ZMG4ow&s", Arirang Radio # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=157&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=96632298787ee7d07e91115c580fb2b21fe73028053684e18aac1421bdca9cf7
+http://tv123.cc.cd/live.php?ch=142&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=9ccec1f04b8b77e4057292afc58c1ab53a9cb5a72431dc679af3b38c03b315a7
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Africa 24 Sport 🇳🇬" tvg-logo="https://epg.112114.xyz/logo/Africa 24 Sport 🇳🇬.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Africa 24 Sport 🇳🇬 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=204&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=2b68f7c885a233a380d038d51ea0bb5d686fcb6c3ccf93c826d5c835f8fa7d88
+http://tv123.cc.cd/live.php?ch=189&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=25aa5af72f5dad40fc2b156914dbdc068e726ced585c6ee80f46002b3aa84b00
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="INFOSPORT 🇫🇷" tvg-logo="https://epg.112114.xyz/logo/INFOSPORT 🇫🇷.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",INFOSPORT 🇫🇷 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=206&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=60aa5c451daa544e2848f57f3130fc88262a1cce2929631800a7f6c26ba6f875
+http://tv123.cc.cd/live.php?ch=191&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=509f3973861f3cf998a4f46da27a0cf1a11a65ace727dc8ced6df498e0fe5b75
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Qazaqstan Sport SD 🇰🇿" tvg-logo="https://epg.112114.xyz/logo/Qazaqstan Sport SD 🇰🇿.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Qazaqstan Sport SD 🇰🇿 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=209&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=101db12b9ad77f446837dbffed358de4ea98a0e0546dade5e165eb138a4a6518
+http://tv123.cc.cd/live.php?ch=194&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=1f9ecc36d510141fcd8765421a93ba40f2aa09df6e1c80330ffb0d083208a0f0
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://epg.112114.xyz/logo/Turkmenistan Sport 🇹🇲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Turkmenistan Sport 🇹🇲 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=210&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=ec11d0deda2ca5b863a007f34c5c56958b889604992e14d8cec2778241b82c54
+http://tv123.cc.cd/live.php?ch=195&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=51094c52f375b395a751a241845f45cce0bcb683eac6b0599cb530d2781c9db5
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="X SPORT 🇷🇺" tvg-logo="https://epg.112114.xyz/logo/X SPORT 🇷🇺.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",X SPORT 🇷🇺 # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=211&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=07152225b8d75a4122294b9db92d8d611a7452c5991a435e44e657b168c5d850
+http://tv123.cc.cd/live.php?ch=196&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=02e9d4217632f85ccaf1c96c1acaf60ae9aede16106f7cc28dc7fe8876def195
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Fox Sports" tvg-logo="https://epg.112114.xyz/logo/Fox Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fox Sports # Tier:B Score:7
-http://tv123.cc.cd/live.php?ch=216&sid=369cd937974586a5777e89a52aaf436e&exp=1788621318&sig=db225c64a00da54c3bbd5993e6ef87e9feb4ea3a735f6380e346a0a04dae5f29
+http://tv123.cc.cd/live.php?ch=201&sid=77108657df2a37d41c14420cde81fe5f&exp=1788707715&sig=3771c6511229ff7724480da07729da938b5d1c4f80b7cde5cfdf17c2711d15bb
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISNEY%20CHANELL%20HD.png" group-title="🇺🇸美国直播",DISNEY CHANELL HD # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23517

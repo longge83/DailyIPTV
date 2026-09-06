@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-05 03:15:30 UTC
-# Updated: 2026-09-05 03:15:30
+# Generated: 2026-09-06 03:15:28 UTC
+# Updated: 2026-09-06 03:15:28
 # Title: RTMP/RTSP直播源（HTTP无法验证）
-# Total Channels: 15
+# Total Channels: 14
 # For personal testing only.
 
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台频道",民视
@@ -34,5 +34,3 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 #EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://live.fanmingming.cn/tv/石棉综合.png" group-title="☘️四川频道",石棉综合
 rtmp://tv.yunxya.com:1937/channellive/shimian
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="🔮港澳台直播",中天新闻
-rtmp://47.238.2.198/live/888ztxw
