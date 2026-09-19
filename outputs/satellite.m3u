@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-18 04:21:20 UTC
-# Updated: 2026-09-18 04:21:20
+# Generated: 2026-09-19 04:17:49 UTC
+# Updated: 2026-09-19 04:17:49
 # Title: 卫视频道
-# Total Channels: 82
+# Total Channels: 83
 # For personal testing only.
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="🐧┃卫视频道",江苏卫视 # Tier:A Score:8
 https://0832-1dbe-95df-5158.kylintv.tv/live/jstvhd_iphone.m3u8
 #EXTINF:-1 group-title="🇨🇳央卫视直播1" tvg-name="湖南卫视4K" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",湖南卫视 # Tier:A Score:8
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视 # Tier:A Score:9
+https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育卫视.png" group-title="卫视频道",山东教育 # Tier:A Score:9
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视 # Tier:A Score:9
-https://cdn.qd.je/163189/hxws2
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🐧┃卫视频道",香港卫视 # Tier:A Score:8
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="卫视频道",浙江卫视 # Tier:A Score:10
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文 # Tier:A Score:9
-https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯 # Tier:A Score:9
 https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文 # Tier:A Score:9
+https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港 # Tier:A Score:9
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB Plus.png" group-title="🚂┃湾区频道",TVB Plus # Tier:A Score:9
@@ -74,22 +74,24 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-name="RegioTVBodensee" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="📺 TVB",RegioTVBodensee # Tier:A Score:9
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBRICSEnglish" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="📺 TVB",TVBRICSEnglish # Tier:A Score:9
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBRICSAfrica" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="📺 TVB",TVBRICSAfrica # Tier:A Score:9
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBRICSChinese" tvg-logo="https://i.imgur.com/896132Z.png" group-title="📺 TVB",TVBRICSChinese # Tier:A Score:9
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBRICSEnglish" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="📺 TVB",TVBRICSEnglish # Tier:A Score:9
-https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBRICSPortuguese" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="📺 TVB",TVBRICSPortuguese # Tier:A Score:9
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBRICSSpanish" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="📺 TVB",TVBRICSSpanish # Tier:A Score:9
-https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBVietnam" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="📺 TVB",TVBVietnam # Tier:A Score:9
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBrno1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="📺 TVB",TVBrno1 # Tier:A Score:9
-https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBrusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="📺 TVB",TVBrusque # Tier:A Score:9
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBRICSSpanish" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="📺 TVB",TVBRICSSpanish # Tier:A Score:9
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBrno1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="📺 TVB",TVBrno1 # Tier:A Score:9
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视 # Tier:A Score:8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视 # Tier:A Score:10
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="澳门卫视" tvg-name="澳门卫视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台频道",澳门卫视 # Tier:B Score:7
@@ -121,7 +123,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="🍄┃广东频道",广东卫视 # Tier:B Score:5
 http://192.151.150.154/live/gdwshd.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="🍄┃广东频道",大湾区卫视 # Tier:B Score:5
-http://198.204.228.26/live/nfws.m3u8
+http://198.204.228.26/live/gdgj.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="🍄┃广东频道",深圳卫视 # Tier:B Score:5
 http://198.204.228.26/live/szwshd.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕 # Tier:B Score:5
@@ -134,20 +136,26 @@ http://198.204.228.26/live/jxwshd.m3u8
 http://198.204.228.26/live/gswshd.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="🐧┃卫视频道",辽宁卫视 # Tier:B Score:5
 http://198.204.228.26/live/lnwshd.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="🐧┃卫视频道",天津卫视 # Tier:B Score:5
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" group-title="🐧┃卫视频道",新疆卫视 # Tier:B Score:5
 http://198.204.228.26/live/xjws.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="🐧┃卫视频道",天津卫视 # Tier:B Score:5
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰卫视" tvg-logo="https://epg.112114.xyz/logo/%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87%E8%87%BA.png" group-title="🚂┃湾区频道",凤凰卫视 # Tier:B Score:5
 http://173.208.234.146/live/fhzw.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻 # Tier:B Score:7
 http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🚂┃湾区频道",TVBS亚洲 # Tier:B Score:5
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="🔮港澳台直播" tvg-name="TVBS新聞臺" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E8%81%9E%E8%87%BA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBS新聞臺 # Tier:B Score:5
-http://173.208.234.146/live/tvbsnews.m3u8
-#EXTINF:-1 group-title="✴️ITV直播[移动]" tvg-name="农林卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",农林卫视 # Tier:B Score:5
-http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",北京卫视 # Tier:B Score:5
+http://45.192.97.170:8880/play/29.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",陕西卫视 # Tier:B Score:5
+http://45.192.97.170:8880/play/33.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1" tvg-name="农林卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",农林卫视 # Tier:B Score:5
+http://45.192.97.170:8880/play/35.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",兵团卫视 # Tier:B Score:5
+http://45.192.97.170:8880/play/36.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",江西卫视 # Tier:B Score:5
+http://45.192.97.170:8880/play/32.m3u8
 #EXTINF:-1 tvg-name="ETVBalBharat" tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="📺 TVB",ETVBalBharat # Tier:B Score:5
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-name="TVBRICSRussian" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="📺 TVB",TVBRICSRussian # Tier:B Score:5
@@ -156,17 +164,11 @@ http://185.23.80.23:8080/TVBRICS/index.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="TVBPearl" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="📺 TVB",TVBPearl # Tier:B Score:7
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视 # Tier:B Score:5
-http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视 # Tier:B Score:5
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视 # Tier:B Score:5
-http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视 # Tier:B Score:5
-http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/福建海峡卫视.png" group-title="卫视频道",福建海峡卫视 # Tier:B Score:5
 http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视 # Tier:B Score:5
-http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视 # Tier:B Score:5
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="TVBuzau" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="📺 TVB",TVBuzau # Tier:C Score:4
 http://78.96.33.89:8080
