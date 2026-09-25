@@ -1,36 +1,36 @@
 ## 📡 直播源地址
 
-最后更新: 2026-09-24 04:10:48
+最后更新: 2026-09-25 04:36:54
 
 ### 🏆 质量分级
-- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u) (623个)
-- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u) (689个)
-- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u) (117个)
+- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u) (619个)
+- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u) (699个)
+- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u) (127个)
 
 ### ✅ 综合验证列表
 - **完整列表 (A+B+C)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 1429 个
+- 有效频道: 1445 个
 - 有效率: 15.1%
 
 ### 📺 分类频道
-- **央视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/cctv.m3u) (47个)
-- **卫视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u) (78个)
-- **地方台**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u) (254个)
-- **国际**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u) (47个)
-- **其他**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u) (1003个)
+- **央视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/cctv.m3u) (46个)
+- **卫视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u) (82个)
+- **地方台**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u) (247个)
+- **国际**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u) (55个)
+- **其他**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u) (1015个)
 
 ### 🔧 特殊列表
 - **IPv6 源**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/ipv6.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/ipv6.m3u) (122个，需IPv6网络)
-- **景区慢直播**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/webcam.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/webcam.m3u) (50个)
-- **已拦截**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u) (916个，私人代理/高风险域名)
+- **景区慢直播**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/webcam.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/webcam.m3u) (48个)
+- **已拦截**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u) (898个，私人代理/高风险域名)
 
 ### 📊 统计信息
-- 总采集: 12765 个
-- 内容验证通过: 1848 个
+- 总采集: 12779 个
+- 内容验证通过: 1837 个
 - IPv6保留: 122 个
-- A级: 623 | B级: 689 | C级: 117
-- 验证耗时: 2574.95 秒
-- 更新时间: 2026-09-24T04:10:48.181278
+- A级: 619 | B级: 699 | C级: 127
+- 验证耗时: 3108.83 秒
+- 更新时间: 2026-09-25T04:36:54.562184
 
 ---
 
