@@ -1,35 +1,35 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-11-01 05:06:07 UTC
-# Updated: 2026-11-01 05:06:07
+# Generated: 2026-11-02 05:33:53 UTC
+# Updated: 2026-11-02 05:33:53
 # Title: 国际频道
-# Total Channels: 129
+# Total Channels: 139
 # For personal testing only.
 
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA # Tier:A Score:8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道",CBC News # Tier:A Score:8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道",ABC News Live # Tier:A Score:8
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA # Tier:A Score:8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道",WionNews # Tier:A Score:8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang # Tier:A Score:10
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道",Trace Sports # Tier:A Score:8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News（英语国际） # Tier:A Score:8
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语） # Tier:A Score:8
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Français（法语） # Tier:A Score:8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语） # Tier:A Score:10
-https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News（英语国际） # Tier:A Score:8
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语） # Tier:A Score:8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax # Tier:A Score:10
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语） # Tier:A Score:10
+https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT塞尔维亚.png" group-title="国际频道",RT Balkan （塞尔维亚语） # Tier:A Score:8
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",Wild Earth # Tier:A Score:8
@@ -46,10 +46,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="国际频道",France24 # Tier:A Score:9
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其直播" tvg-name="TRT Muzik" tvg-logo="https://epg.112114.xyz/logo/TRT%20Muzik.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TRT Muzik # Tier:A Score:8
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其直播" tvg-name="TRT World" tvg-logo="https://epg.112114.xyz/logo/TRT%20World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TRT World # Tier:A Score:8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其直播" tvg-name="TRT Muzik" tvg-logo="https://epg.112114.xyz/logo/TRT%20Muzik.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TRT Muzik # Tier:A Score:8
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇪🇸西班牙直播" tvg-name="DW Español Ⓢ" tvg-logo="https://epg.112114.xyz/logo/DW%20Espa%C3%B1ol%20%E2%93%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW Español Ⓢ # Tier:A Score:9
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔直播" tvg-name="Al Jazeera Arabic" tvg-logo="https://epg.112114.xyz/logo/Al%20Jazeera%20Arabic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Al Jazeera Arabic # Tier:A Score:8
@@ -61,105 +61,129 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="⚽️体育直播" tvg-name="ACI Sport TV" tvg-logo="https://epg.112114.xyz/logo/ACI%20Sport%20TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ACI Sport TV # Tier:A Score:9
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 TV2 Sport HD DK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=7&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=3333513dbab3e8fbf60b03834873c97d29d9e2f6602f9f8c54f380658b89ff40
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 TV3 Sport HD DK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=11&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=31326ae0b8bf76136836627dd7cec85db4aedaefec7d3c37246738ae3adb5ea4
+https://tv123.cc.cd/live.php?ch=7&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=34d75e03c87f82f2ded3c33f8b0d274a64115aea42311b985b1fa24a4181d24f
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 TV2 Sport X HD DK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=8&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=0c5bde398b5fe282c7466ad9475b6ad84c0950da8bd3453b609b2975e3e60605
+https://tv123.cc.cd/live.php?ch=8&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=bb711b901110e9bbffcbf5ac03f883bb8342f66efeb45bfacfddaafb48261086
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 TV3 Sport HD DK # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=11&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=653f1c6287228ba11825a824c16574f22aa284e71719271fc003c1a9b3e4e700
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 V Sport 1 SE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=13&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=dd02cf679d4fb9f7333e588585fda57ba55c65ae0fc28b855624d8702c3586cd
+https://tv123.cc.cd/live.php?ch=13&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=c4e3f004c009810f1a6723134a3c7a74e8963d998a988aa758f6e26148ada534
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 V Sport Motor SE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=14&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=78c483fed4b3b904d802d7adce490aca4d7358af4a03564421693d19e6a339c3
+https://tv123.cc.cd/live.php?ch=14&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=e978d862ae924c56e6399d83be3107f4a81c42b3c4f14d5c871c105f2df894b6
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 V Sport Premium SE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=15&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=687825f697595bc1971ba8f31914177529d7e959ee9746e7fe77da8c446a3b51
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 V Sport Extra HD FI # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=19&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=cdff03f18d8283636a2554a51cd1bcc96ec74981ee0114187752c9c03ef96df1
+https://tv123.cc.cd/live.php?ch=15&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=4d3b679b67597607e09ecdc46c003d9db9a93f1c41bcab69e06f1340eae1e5bc
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 V Sport Football HD FI # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=20&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=4bf306a51f74c161599b5817f942deeac87a900c5fb1935edb83bcff94cdc1a1
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Top Event FHD DE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=25&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=7955c33110e1b5263b0aaee5e21e045d53eea3cee22a26e9ad96d0805f5e9aac
+https://tv123.cc.cd/live.php?ch=20&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=42e2c924e1db18a6c92a49137a7cac5c7dedd4753136de0ff609bd4803e45d47
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 V Sport Extra HD FI # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=19&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=65e9f883c9bd31541cd67d5930058b55c0494008c8f40146c46749ff0281ef0b
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 8 FHD DE # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=23&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=babefabae46acb63c900504d71fb5c19b8100a6f95bb2899e7a42fae2f4da097
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 4 FHD DE # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=21&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=d80922d9acafcadbcd36f58d72a0f7292f7741bcc15d24bfb0c8d2af02d7db59
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 7 FHD DE # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=22&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=208a583564786a231911b1be014823a7b4c682ebf350357b551e48d78bc3a4bd
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Mix FHD DE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=26&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=8941700823eb533992da2ba52e5088fa9fc93d9ce1977c5486eb5d647e879f15
+https://tv123.cc.cd/live.php?ch=25&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=4a01b52c3945bbbc542497af3b27528d53993118a5471bfafee1c5c61486bf26
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Top Event FHD DE # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=24&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=e3d4fc35a0584fabc459905217323d8d8d7d3acbe9461758fc69dbf74035b130
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Golf FHD DE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=28&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=a4bcc28b3ce1859e26c718055e4ebb4bc97f42e353287336a853bfdee9b0f7f9
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Austria 3 FHD AT # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=30&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=d7726fbf6270ed8447289a3ee3ae6ae8732796dd1a1bd68412aaf84da1d2416b
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Tennis FHD DE # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=27&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=d39c9f4f59506f188050c0a2e7c88fa61a72cd61a8fdcf07f52da31cbc5c34f6
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 BBC One FHD UK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=52&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=f153ce4d0f564129c239614bbe619b085564a7358ed51ee37bd13aec35756a95
+https://tv123.cc.cd/live.php?ch=26&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=69976e470062cf3b7d5d2d315a5989dab193df61a90bd58a140de559d6086c8e
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 BBC Three FHD UK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=56&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=32b0fe70dee124393b0838f7efc18f213036f3c69f52dfa54765916ac726c875
+https://tv123.cc.cd/live.php?ch=53&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=09dc28804205ad18ec0b1d14f4019a347cb61f6c190a8a6d1e3b6443e18d22ce
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 National Geographic FHD UK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=58&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=373bed89f83b84a846d3617d637665a5d3f33859070bdd3a397b48d8cac4efb0
+https://tv123.cc.cd/live.php?ch=54&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=d123011baa4db4cbd5338a77c4f0d28d7283a78b1ccb0d680939f661a72711ba
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Discovery Channel FHD UK # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=59&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=0eaa165037e8465cf013c9d45298e3ed599ef9043d0665dd14e90718ac788903
+https://tv123.cc.cd/live.php?ch=55&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=279dff6546e5fae6dd54fcfaee090b78f854c784a02c20c46392bc21d31418d1
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Fox Deportes HD US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=73&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=8263136d213e28e16bfa6b43e593c84b549d8ee15274138e015b6d960ab703f5
+https://tv123.cc.cd/live.php?ch=66&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=0ac4ead8d07b0e0e75f33db75d5428b8964d227366e68b3f4852979f2a82c41f
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Fox Sports 1 FHD US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=74&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=3f90bd5219ab2e2bca478e52fa979ca83c6f673bc60473f77dd4ebdca66b6b0f
+https://tv123.cc.cd/live.php?ch=67&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=efd1cd61353dc0b43117f9986514d1a34cb4660f6327f0810326dae9c76c9c4d
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Fox Sports 2 FHD US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=75&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=542d98a3141a25c42bf5304cc4bdb11d85fe90112bb994d1f0fc7e7b1b803c9f
+https://tv123.cc.cd/live.php?ch=68&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=7aba43a80f7efbc215c4974886a510293395da8def44f7ac35b6831be94f6771
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 FOX US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=88&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=da3226598a2eb0f43517d6c840c49a5a16f250ce7661d6bb169e456ef802aabc
+https://tv123.cc.cd/live.php?ch=79&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=1c9e11e1583af195a87eefe68bcc3c72b10e7b690eaa86dd2cb13cd7c7c666a6
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Disney Channel US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=94&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=152a0882a9aa02adfef89ee76a72c7a8ee27573f2140a425bb1b7608861009b3
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 BBC America US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=97&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=9b672c48028d63a12c81b12359b7f2c0e08e76e2f26c20c0a5e47f625f8a0f7f
+https://tv123.cc.cd/live.php?ch=85&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=8fe387a60f74bcf4d2bd16e65544be8da74c7fc1624eb477898d4097f8ea7546
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 CNBC US # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=101&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=87f3a19304ca5587bedc61af7c0db4bf67fbba3f02409b6ec3d3320f272f8acf
+https://tv123.cc.cd/live.php?ch=91&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=9e9f1d00ffa27b7bb8f3777676ce4b125d017f9c13bc5b068346873a28526e1f
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport AU Event 2 # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=98&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=bc8cc9f557006e529685b82906de0fb1813a70f087f23d13acdbc2a6ea6bfb20
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Canal+ Sport FHD PL # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=111&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=0d3db910f0cd47bfac837a696747742889047863a2bd22e2f495b239b7fb08fa
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Canal+ Sport 2 FHD PL # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=122&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=a7bec17fd479d2dce95ed9ff1f11138bbc33616e81f382936c644ae74b1dea76
+https://tv123.cc.cd/live.php?ch=112&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=1157f02f7775dfceb3d9b5c83d1cc59cc32feae3ef8e9c5bc7949dc802587073
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Canal+ Sport 4 FHD PL # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=113&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=0678cef6a7a137a6b4e81b372b9b4c263982148edbf4739bd25d6a2b7ddd95c3
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Eurosport 1 FHD PL # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=116&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=18258ead2156830a2fd51d6b5fee94dc389f778942b1411f70c3da593d9b95a4
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 HBO FHD PL [Multi-Audio] # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=124&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=d3d35ed3802846d4a941dc55023a4596848296cac304b49892268145f050bfcf
+https://tv123.cc.cd/live.php?ch=117&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=380097e48b5311451e6b50b17c3add4d5a49e8dbef14ec62ba491e142ae17bb5
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 TVP Sport FHD PL # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=118&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=001cc2a94bfbd3ca314e4747e0fc2fd029c055bac849c04fe3078e353d884ee8
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport TV 1 FHD PT # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=128&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=ea5bf0d1215775ad9d562155858bbab36e23e200b6f7732ccc524682cde20839
+https://tv123.cc.cd/live.php?ch=121&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=873b817027fd5d3534da74431f3e75fc5e9e2f060f1fbcddc73d62367d87c119
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport TV 2 FHD PT # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=129&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=dad34eb149ce2d40f41f2a083198d25f967258a9d6f6a983057122b7bea3be23
+https://tv123.cc.cd/live.php?ch=122&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=2e577a6ea2cdb602a7f4498234de2a25cece6a80e5957d0ab1ece434664cf0b7
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport TV 3 HD PT # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=130&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=40754607536f7ff3d61aa789e6950c04ab14552a8b61ef5a5e511dd743eb9330
+https://tv123.cc.cd/live.php?ch=123&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=a328b5fd4128de525bc2826daac7b0c518e11c04d1888d22b906b70f6005061d
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport TV 5 HD PT # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=132&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=b42f2fa6e30f4f4fe496291d8f88bb3a3935c9491f8bdaab93d16bd6c2e19896
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport TV 4 HD PT # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=131&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=013acedaf8eb5512ccc2d32f60173a51ee6b64ea7dfd212d979e7c1993ed358c
+https://tv123.cc.cd/live.php?ch=124&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=abb727fc4b765f4ca91d6bda8f82bf1751259b499848ce760c4006ca02069192
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Digi Sport 1 FHD RO # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=134&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=b99fdc2fd9a52a7fb2e612dc913f5ab69261b0be685260075752ac6ba36ac547
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 RMC Sport 1 HD FR # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=135&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=00c999124b240d43f6018b6f60f6dfd54fce1e63ac3e3f50100883ec704fc4c9
+https://tv123.cc.cd/live.php?ch=129&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=303ba540079a010df47a1a40e0125d3e30e6ca1757f72d1679c4d164a84f0e01
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 RMC Sport 2 HD FR # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=136&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=7a0822d47360b41eeb808583c5fe6a9fe34c119ab858b2ea69da27b1adbb88b1
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Canal+ Sport 360 HD FR # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=137&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=b2bbbe527f2c08802381b7b2bd719fb167f31dfdb366af9bab77418a87d9f713
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 FOX Sports 506 HD AU # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=145&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=e8ff72fbe4b046864692311036807fa86cb96dd9d398d8ae96b7a81897370c68
+https://tv123.cc.cd/live.php?ch=130&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=fb50ff5a685d1c08ca8fd249e0e40972cfc4d70a682cfbbc33a56571b5f42827
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Fox Sports 501 AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=140&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=919f58d34bf49279b340b0aeefba398c444a8f1cef433fa408ecb278a3ef899a
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 4 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=141&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=484cabd06c61af0ded6c57b833aa6263a263cf68ea3e203f4093ce8b9f0c94b9
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 5 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=142&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=31a5484f216918cc95f3f897fd526b6ce7de57561e5cf5be5316d1192243024c
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 7 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=143&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=387fb40c9127aa0c4d0874a032cc8024e6ca7639848527cdd501ac608cf1e5f0
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 9 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=144&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=ada464d134c47ae4957a492100156b84ccec5a621295921c81783c813766a83f
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 10 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=145&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=b79caeb8ea82a38500708bd94a7c0168f96e5520784ec3dff113d17258d03b2b
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 11 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=146&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=8c6fc407acc79d54b0c27d61bba670e9691405a4369842a666f118d7be7447b4
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 14 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=147&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=1a6d0f37f4b100f96a1db4bc82e33ef04be39a75c85c7c6baae19766d211ffe3
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 15 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=148&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=df0a050bfa2a82b12f01e34aad2573651b0c9e14f36ba98c0fc222158a916f17
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 16 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=149&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=c3f2ceb713329cd7b701df922a1f9a02a5a8705c1009f9cea0aaf92519981420
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Stan Sport 19 FHD AU # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=150&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=555e24da219e9fdbe5a2b134ea9dca341745ed9d4021afc289be36887a0813c7
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 1 NZ # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=146&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=b7a34e718f7083b4fd4b470d1474077b5c75d63a7f29694ad829caa2f419996d
+https://tv123.cc.cd/live.php?ch=151&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=74e64fbefb6a9c6d014c5a2c0fa94b0ce26594e72a649dc049726818d00d2308
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 2 NZ # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=147&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=674c541579f8e06bebc75e56384e5d5da53e7502ee851c6cb5199ea4ca60c101
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 3 NZ # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=148&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=1de2690c261647c97c147a7861efed81b939dc983516480497218c822c934da8
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport Select NZ # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=149&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=d9385014771c7d8b3b36212cc09afa7e86d286cc9a3cc2a03ce4f3c480991d7f
+https://tv123.cc.cd/live.php?ch=152&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=b4491db8e6aa95ee9929e0504149fe1412fe5279d1a80269d22067a801211077
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sky Sport 8 NZ # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=153&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=cfb0290d67057e03efeaa5c39efee51fcf50c31c16fc1754d5a997eb1f2b11a7
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Diema Sport 3 FHD BG # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=155&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=07bc1db02d2c41f437e4bd9b8d00e6b708129f0115c3e125ea228d2627cb6c56
 #EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Max Sport 4 FHD BG # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=152&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=21817a031ebfea691b44b19e18f9eb4bc451d899c3665325e66dce8b063e74cb
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Max Sport 2 FHD BG # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=151&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=5b99e425d0934d66c16f8e637568cb9a86ef62dc08a8cd65b0558ae13849f2b5
-#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport 2 HD IL # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=157&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=49e3fd7a2286d9db5d9d74fec3ab835dc762e7904ee9fc804716dc86a0431992
+https://tv123.cc.cd/live.php?ch=156&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=73209188f33c91f6944aa5b4f3cdb27b7238f089d686d6e1bce52ad4f6e76181
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Cosmote Sport 8 HD GR # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=157&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=8a4fd939d72aac4887f0317547a3b9c7d56bb278603cde808077615c75042953
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Nova Sport Start HD GR # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=158&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=3c244c6a8f04f15906bccfc60e7225dfc2728acd9d394969ebca30b96daba960
+#EXTINF:-1 tvg-logo="" group-title="LIVE TV",🔴 Sport 5 Gold IL # Tier:A Score:8
+https://tv123.cc.cd/live.php?ch=162&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=9a20aadb257c4f26abbd853d5d13d6ee442b931234f68e35f00a5a5c152f6b70
 #EXTINF:-1 group-title="韓國 | Korea" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPS2HfHVb4Sr1DIRtyxyvQlkYVTj4ZMG4ow&s", Arirang Radio # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=160&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=7d55ade0647fb8a5c70f0b68d83b2aba0d630c757945f18cb171ec9b8e618395
+https://tv123.cc.cd/live.php?ch=165&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=e4c18afeaef93776a3e88c23897bcb49a3d2fa5f1e16236b3f1f5a85d75c52b2
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Africa 24 Sport 🇳🇬" tvg-logo="https://epg.112114.xyz/logo/Africa 24 Sport 🇳🇬.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Africa 24 Sport 🇳🇬 # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=207&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=24c819bf1f25f81a238ba308255fe9426b2cba68b65511ea39aa76b07c4dbf9a
+https://tv123.cc.cd/live.php?ch=212&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=950857500284b1fdff794a859acde5bcae98fd7c5637950ca7971deab49fcb2f
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="INFOSPORT 🇫🇷" tvg-logo="https://epg.112114.xyz/logo/INFOSPORT 🇫🇷.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",INFOSPORT 🇫🇷 # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=209&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=0f595ec25c3dda8f2088332e72de472e2caa75fed33880c0ca26f0d1724b709f
+https://tv123.cc.cd/live.php?ch=214&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=d3b9b33103e037c3a0e8f80252e6a585eeef81d6dc0055589fb5d34ce7bb74cc
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Qazaqstan Sport SD 🇰🇿" tvg-logo="https://epg.112114.xyz/logo/Qazaqstan Sport SD 🇰🇿.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Qazaqstan Sport SD 🇰🇿 # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=212&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=df296933e45b7abddecc147b416db51fc9d26e110c54b523895248be2236891a
+https://tv123.cc.cd/live.php?ch=217&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=08836385732fe09fdc23b250bd0433ecf22fe851f556ecf016ac0a2969b513c5
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://epg.112114.xyz/logo/Turkmenistan Sport 🇹🇲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Turkmenistan Sport 🇹🇲 # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=213&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=05ad52ebdc3e6504944fdbdd6fd89a00a60bd0b24da0f6e3136ec11ff85f3cac
+https://tv123.cc.cd/live.php?ch=218&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=c93b35e6b91effcb890758e4378ab081501c15b5aafcc4ae8fd4b1b6dd616fab
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="X SPORT 🇷🇺" tvg-logo="https://epg.112114.xyz/logo/X SPORT 🇷🇺.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",X SPORT 🇷🇺 # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=214&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=d8adafc4605acb04d0100d86fe8e08b486acb531acb107c92498ca91316355f2
+https://tv123.cc.cd/live.php?ch=219&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=4f901fea9848dbea4f97c3fcd694d9cb36c40eaf8207243e1e59184a8aea5279
 #EXTINF:-1 group-title="🤠國際體育" tvg-name="Fox Sports" tvg-logo="https://epg.112114.xyz/logo/Fox Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fox Sports # Tier:A Score:8
-https://tv123.cc.cd/live.php?ch=219&sid=4e43855308468cb545740eb6cc454061&exp=1793551410&sig=b318f6a9938646c1abd5cd83febe5f02f1defe14f42e6ad398d4553ca408320c
+https://tv123.cc.cd/live.php?ch=224&sid=20d6547a2d1baf7afa8c60fbb2fe7594&exp=1793637958&sig=e883885dbfc7c6965964b164339e54ef2d9d3528c8b84dde3e5c808889fc31a0
 #EXTINF:-1 group-title="国际频道",CNN # Tier:A Score:9
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际频道",GB News # Tier:A Score:8
@@ -176,58 +200,58 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="国际频道",Trace Sport Stars # Tier:A Score:8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",HollyWire # Tier:A Score:8
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 #EXTINF:-1 group-title="国际频道",Newsy # Tier:A Score:8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 #EXTINF:-1 group-title="国际频道",Redbull # Tier:A Score:8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="国际频道",HollyWire # Tier:A Score:8
-https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 #EXTINF:-1 group-title="国际频道",Mytime Movie # Tier:A Score:8
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",The First # Tier:A Score:8
 https://thefirst-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",RT Documentary # Tier:A Score:8
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际频道",Action Hollywood # Tier:A Score:9
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",ION Plus # Tier:A Score:9
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Action Hollywood # Tier:A Score:9
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",RT Documentary # Tier:A Score:8
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="Universal Movies" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025._SL170_FMpng_.png" group-title="国际频道",Universal Movies # Tier:A Score:8
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
+#EXTINF:-1 group-title="国际频道",History Hit # Tier:A Score:9
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="99951254" tvg-name="Universal Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_action_us._SL170_FMpng_.png" group-title="国际频道",Universal Action # Tier:A Score:8
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
 #EXTINF:-1 tvg-id="99951255" tvg-name="Universal Western" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Westerns_FAST_TitleArt_White._SL170_FMpng_.png" group-title="国际频道",Universal Western # Tier:A Score:8
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
-#EXTINF:-1 group-title="国际频道",Outdoor Channel # Tier:A Score:9
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="99951245" tvg-name="Universal Crime" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White._SL170_FMpng_.png" group-title="国际频道",Universal Crime # Tier:A Score:8
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
-#EXTINF:-1 group-title="国际频道",History Hit # Tier:A Score:9
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="US25000063S" tvg-name="CW Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="国际频道",CW Gold # Tier:A Score:8
-https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
+#EXTINF:-1 group-title="国际频道",Outdoor Channel # Tier:A Score:9
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW Forever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png" group-title="国际频道",CW Forever # Tier:A Score:8
 https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
 #EXTINF:-1 group-title="国际频道",Sony One Action HITS # Tier:A Score:8
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",Sony One Comedy HITS # Tier:A Score:8
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",Top Movies # Tier:A Score:8
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 group-title="国际频道",Action Movies # Tier:A Score:8
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="US25000063S" tvg-name="CW Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="国际频道",CW Gold # Tier:A Score:8
+https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
 #EXTINF:-1 group-title="国际频道",Comedy Movies # Tier:A Score:8
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="国际频道",Action Movies # Tier:A Score:8
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="国际频道",Top Movies # Tier:A Score:8
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 group-title="国际频道",Thrillers # Tier:A Score:8
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_uk&ads.rtv_content_id=6482&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6482&disable_subtitles=true&publishing_platform_id=2
-#EXTINF:-1 group-title="国际频道",Sci-Fi # Tier:A Score:8
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6241&disable_subtitles=true&publishing_platform_id=2
-#EXTINF:-1 group-title="国际频道",Romance Movies # Tier:A Score:8
-https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6194&disable_subtitles=true&publishing_platform_id=2
 #EXTINF:-1 group-title="国际频道",Thriller TV # Tier:A Score:8
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",Drama Movies # Tier:A Score:8
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="国际频道",Romance Movies # Tier:A Score:8
+https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6194&disable_subtitles=true&publishing_platform_id=2
+#EXTINF:-1 group-title="国际频道",Sci-Fi # Tier:A Score:8
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6241&disable_subtitles=true&publishing_platform_id=2
 #EXTINF:-1 group-title="国际频道",Comedy TV # Tier:A Score:8
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",Sony One FAVES # Tier:A Score:8
@@ -236,31 +260,27 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",LG 1 Film # Tier:A Score:9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="国际频道",LG 1 Spotlight # Tier:A Score:9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="国际频道",LG 1 # Tier:A Score:9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 group-title="国际频道",Inside Outside # Tier:A Score:8
 https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",LG 1 # Tier:A Score:9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 group-title="国际频道",LG 1 Spotlight # Tier:A Score:9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 group-title="国际频道",Universal Monsters # Tier:A Score:8
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
 #EXTINF:-1 group-title="国际频道",Tennis Channel # Tier:A Score:9
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 group-title="国际频道",New Kmovies # Tier:A Score:8
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 group-title="国际频道",SBS Drama # Tier:A Score:8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="国际频道",Family # Tier:A Score:8
-https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
+#EXTINF:-1 group-title="国际频道",New Kmovies # Tier:A Score:8
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="GB2600021LP" tvg-name="Reality - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png" group-title="国际频道",Reality # Tier:A Score:8
 https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="国际频道",Family # Tier:A Score:8
+https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
 #EXTINF:-1 tvg-id="Discovery科学频道" tvg-name="Discovery Science" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Science.png" group-title="🚂┃湾区频道",Discovery Science # Tier:B Score:5
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="Disney Jr. Latin America South" tvg-logo="https://epg.112114.xyz/logo/Disney%20Jr.%20Latin%20America%20South.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Disney Jr. Latin America South # Tier:B Score:5
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Lifestyle.png" group-title="🚂┃湾区频道",BBC Lifestyle # Tier:C Score:4
 http://31.43.191.125:8080/restream/restream/34623
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO_HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO_HD.png" group-title="🅱┃台湾频道",HBO_HD # Tier:C Score:4
-http://31.43.191.125:8080/restream/restream/34571
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO_HITS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS # Tier:C Score:4
-http://31.43.191.125:8080/restream/restream/34540
