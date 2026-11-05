@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-11-04 05:51:47 UTC
-# Updated: 2026-11-04 05:51:47
+# Generated: 2026-11-05 06:13:48 UTC
+# Updated: 2026-11-05 06:13:48
 # Title: 央视频道
-# Total Channels: 51
+# Total Channels: 50
 # For personal testing only.
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语 # Tier:A Score:10
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语 # Tier:A Score:10
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语 # Tier:A Score:10
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录 # Tier:A Score:10
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV4欧洲咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4欧洲咪咕 # Tier:A Score:8
@@ -40,8 +40,8 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="🍓┃央视频道",CCTV-12 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13 # Tier:A Score:10
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="🍓┃央视频道",CCTV-13 # Tier:A Score:9
+https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="🍓┃央视频道",CCTV-14 # Tier:A Score:8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="🍓┃央视频道",CCTV-15 # Tier:A Score:8
@@ -56,12 +56,12 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Russian # Tier:A Score:9
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",CGTN Francais # Tier:A Score:9
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Espanol # Tier:A Score:10
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Arabic # Tier:A Score:9
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",CGTN Francais # Tier:A Score:9
-https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-01咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-01咪咕.png" group-title="🍉┃咪咕频道",CCTV-01咪咕 # Tier:B Score:5
 http://173.208.212.130:8181/720p/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-02咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-02咪咕.png" group-title="🍉┃咪咕频道",CCTV-02咪咕 # Tier:B Score:5
@@ -106,5 +106,3 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="💰┃付费频道",央视台球 # Tier:B Score:5
 http://192.151.150.154/live/ystq.m3u8
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4 中文国际.png" group-title="央视频道",CCTV-4 中文国际 # Tier:B Score:6
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1793815200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3be62288775f6b3fa731a81718dfcda8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
