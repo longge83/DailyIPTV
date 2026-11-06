@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-11-05 06:13:48 UTC
-# Updated: 2026-11-05 06:13:48
+# Generated: 2026-11-06 05:55:38 UTC
+# Updated: 2026-11-06 05:55:38
 # Title: 景区慢直播
-# Total Channels: 6
+# Total Channels: 5
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
@@ -16,5 +16,3 @@ https://play-a2.quklive.com/live/1765245429980053.m3u8
 https://huyazhibo.de5.net/?id=23734176
 #EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="天才大熊猫啊" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%89%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%95%8A.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",天才大熊猫啊 # Tier:C Score:2
 http://live.nctv.top/douyu1.php?id=10646699
-#EXTINF:-1 tvg-name="长白山电视台" tvg-logo="https://live.fanmingming.cn/tv/长白山电视台.png" group-title="吉林频道",长白山电视台 # Tier:A Score:10
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
