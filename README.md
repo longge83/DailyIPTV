@@ -1,36 +1,36 @@
 ## 📡 直播源地址
 
-最后更新: 2026-11-15 05:32:19
+最后更新: 2026-11-16 05:51:55
 
 ### 🏆 质量分级
-- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u) (890个)
-- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u) (513个)
-- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u) (119个)
+- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_a.m3u) (863个)
+- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_b.m3u) (514个)
+- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/tier_c.m3u) (123个)
 
 ### ✅ 综合验证列表
 - **完整列表 (A+B+C)**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 1522 个
-- 有效率: 24.3%
+- 有效频道: 1500 个
+- 有效率: 17.8%
 
 ### 📺 分类频道
 - **央视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/cctv.m3u) (53个)
-- **卫视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u) (93个)
-- **地方台**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u) (225个)
-- **国际**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u) (142个)
-- **其他**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u) (1009个)
+- **卫视**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/satellite.m3u) (96个)
+- **地方台**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/local.m3u) (215个)
+- **国际**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/international.m3u) (152个)
+- **其他**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/other.m3u) (984个)
 
 ### 🔧 特殊列表
-- **IPv6 源**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/ipv6.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/ipv6.m3u) (137个，需IPv6网络)
+- **IPv6 源**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/ipv6.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/ipv6.m3u) (133个，需IPv6网络)
 - **景区慢直播**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/webcam.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/webcam.m3u) (6个)
-- **已拦截**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u) (627个，私人代理/高风险域名)
+- **已拦截**: [https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/longge83/DailyIPTV/main/outputs/blocked.m3u) (621个，私人代理/高风险域名)
 
 ### 📊 统计信息
-- 总采集: 9347 个
-- 内容验证通过: 2082 个
-- IPv6保留: 137 个
-- A级: 890 | B级: 513 | C级: 119
-- 验证耗时: 1497.75 秒
-- 更新时间: 2026-11-15T05:32:19.677941
+- 总采集: 11496 个
+- 内容验证通过: 2055 个
+- IPv6保留: 133 个
+- A级: 863 | B级: 514 | C级: 123
+- 验证耗时: 2851.5 秒
+- 更新时间: 2026-11-16T05:51:55.272240
 
 ---
 
