@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-11-17 06:52:49 UTC
-# Updated: 2026-11-17 06:52:49
+# Generated: 2026-11-18 06:11:50 UTC
+# Updated: 2026-11-18 06:11:50
 # Title: RTMP/RTSP直播源（HTTP无法验证）
-# Total Channels: 14
+# Total Channels: 45
 # For personal testing only.
 
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台频道",民视
@@ -34,3 +34,65 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 #EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://live.fanmingming.cn/tv/石棉综合.png" group-title="☘️四川频道",石棉综合
 rtmp://tv.yunxya.com:1937/channellive/shimian
+#EXTINF:-1 group-title="🇨🇳河南频道" tvg-name="安阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%89%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",安阳新闻综合
+rtmp://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab
+#EXTINF:-1 group-title="🇨🇳四川频道" tvg-name="罗江新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E6%B1%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",罗江新闻综合
+rtmp://pull.luojiangrongmei.cn/ljds/ljtv?auth_key=1781775886-0-0-3774e48f9ecd52cd920c19f31406cafd
+#EXTINF:-1 group-title="🇨🇳四川频道" tvg-name="剑阁综合" tvg-logo="https://epg.112114.xyz/logo/%E5%89%91%E9%98%81%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",剑阁综合
+rtmp://tv.scjgtv.cn/channellive/jgzhpd
+#EXTINF:-1 group-title="🇨🇳广西频道" tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E5%AE%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南宁新闻综合
+rtmp://hls.nntv.cn/nnlive/XWZH_24
+#EXTINF:-1 group-title="🇨🇳广西频道" tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E5%AE%81%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南宁影视娱乐
+rtmp://hls.nntv.cn/nnlive/YSYL_244
+#EXTINF:-1 group-title="🇨🇳广西频道" tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E5%AE%81%E6%96%87%E6%97%85%E7%94%9F%E6%B4%BB.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南宁文旅生活
+rtmp://hls.nntv.cn/nnlive/WLSH_24
+#EXTINF:-1 group-title="🇨🇳贵州频道" tvg-name="黔南新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%94%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",黔南新闻综合
+rtmp://tv.qntv.net/channellive/ch1
+#EXTINF:-1 group-title="🇨🇳贵州频道" tvg-name="黔南公共频道" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%94%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",黔南公共频道
+rtmp://tv.qntv.net/channellive/ch2
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="甘肃科教频道" tvg-logo="https://epg.112114.xyz/logo/%E7%94%98%E8%82%83%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",甘肃科教频道
+rtmp://liveout.gstv.com.cn/49048r/4o7e76
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="甘肃少儿频道" tvg-logo="https://epg.112114.xyz/logo/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",甘肃少儿频道
+rtmp://liveout.gstv.com.cn/49048r/oj57of
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="甘肃公共应急" tvg-logo="https://epg.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",甘肃公共应急
+rtmp://liveout.gstv.com.cn/49048r/2v86i8
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/%E7%94%98%E8%82%83%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",甘肃文化影视
+rtmp://liveout.gstv.com.cn/skt649/634ojh
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="嘉峪关综合" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E5%B3%AA%E5%85%B3%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",嘉峪关综合
+rtmp://play.kankanlive.com/live/1754465670263218
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="白银综合频道" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BD%E9%93%B6%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",白银综合频道
+rtmp://play.kankanlive.com/live/1720408089419110
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="甘南综合频道" tvg-logo="https://epg.112114.xyz/logo/%E7%94%98%E5%8D%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",甘南综合频道
+rtmp://play.kankanlive.com/live/1704770893271981
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="庆阳综合频道" tvg-logo="https://epg.112114.xyz/logo/%E5%BA%86%E9%98%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",庆阳综合频道
+rtmp://play.kankanlive.com/live/1704762690210987
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="平凉新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%B3%E5%87%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",平凉新闻综合
+rtmp://play.kankanlive.com/live/1694661314645984
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="张掖新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%8E%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",张掖新闻综合
+rtmp://play.kankanlive.com/live/1720583434627241
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="张掖农业旅游" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%8E%96%E5%86%9C%E4%B8%9A%E6%97%85%E6%B8%B8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",张掖农业旅游
+rtmp://play.kankanlive.com/live/1720583009200246
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="定西综合频道" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%9A%E8%A5%BF%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",定西综合频道
+rtmp://play.kankanlive.com/live/1745232061100288
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="定西文旅生活" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%9A%E8%A5%BF%E6%96%87%E6%97%85%E7%94%9F%E6%B4%BB.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",定西文旅生活
+rtmp://play.kankanlive.com/live/1745232082475287
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="平川综合频道" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%B3%E5%B7%9D%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",平川综合频道
+rtmp://play.kankanlive.com/live/1756258234024340
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="永昌综合频道" tvg-logo="https://epg.112114.xyz/logo/%E6%B0%B8%E6%98%8C%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",永昌综合频道
+rtmp://play.kankanlive.com/live/1652755738635915
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="古浪综合频道" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E6%B5%AA%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",古浪综合频道
+rtmp://play.kankanlive.com/live/1711282408137964
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="陇西综合频道" tvg-logo="https://epg.112114.xyz/logo/%E9%99%87%E8%A5%BF%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",陇西综合频道
+rtmp://play.kankanlive.com/live/1733904632183369
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="西峰综合频道" tvg-logo="https://epg.112114.xyz/logo/%E8%A5%BF%E5%B3%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",西峰综合频道
+rtmp://play.kankanlive.com/live/1683944827526991
+#EXTINF:-1 group-title="🇨🇳甘肃频道" tvg-name="天祝综合频道" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E7%A5%9D%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",天祝综合频道
+rtmp://play.kankanlive.com/live/1656487214793905
+#EXTINF:-1 group-title="🇨🇳黑龙江频道" tvg-name="富锦电视台" tvg-logo="https://epg.112114.xyz/logo/%E5%AF%8C%E9%94%A6%E7%94%B5%E8%A7%86%E5%8F%B0.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",富锦电视台
+rtmp://masterpull.hljtv.com/live/NYQcW0fS
+#EXTINF:-1 group-title="🇨🇳黑龙江频道" tvg-name="通河新闻" tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E6%B2%B3%E6%96%B0%E9%97%BB.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",通河新闻
+rtmp://masterpull.hljtv.com/live/4sTJDdbE
+#EXTINF:-1 group-title="🇨🇳河北频道" tvg-name="廊坊新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E5%BB%8A%E5%9D%8A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",廊坊新闻综合
+rtmp://222.222.126.18/live/lfxw
+#EXTINF:-1 group-title="🇨🇳河北频道" tvg-name="廊坊公共频道" tvg-logo="https://epg.112114.xyz/logo/%E5%BB%8A%E5%9D%8A%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",廊坊公共频道
+rtmp://222.222.126.18/live/lfgg
